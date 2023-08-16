@@ -1,10 +1,10 @@
 ---
 title: Configurations d’intégration pour les applications Adobe Experience Cloud - par produit
-description: Configurations d’intégration courantes des applications Adobe Experience Cloud organisées par produit.
+description: Configurations des intégrations courantes des applications Adobe Experience Cloud organisées par produit.
 source-git-commit: 594e0c2e79a401c872c8f9a4eafdda82572b37a3
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
