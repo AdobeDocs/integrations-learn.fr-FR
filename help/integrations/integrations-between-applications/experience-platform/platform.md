@@ -1,5 +1,5 @@
 ---
-title: Intégration d’Adobe Experience [!DNL Platform] avec d’autres applications Adobe
+title: Intégration de l’expérience d’Adobe [!DNL Platform] avec d’autres applications Adobe
 description: Découvrez comment intégrer Experience [!DNL Platform] avec d’autres applications Adobe.
 solution: Experience [!DNL Platform]
 feature: Integrations
@@ -7,9 +7,9 @@ topic: Integrations
 role: Architect, Admin, Developer
 level: Beginner
 jira: null
-thumbnail: null
+thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19T00:00:00Z
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # Intégration d’une expérience [!DNL Platform] avec d’autres applications Adobe
 
-Adobe Experience [!DNL Platform] est le système le plus puissant, le plus flexible et le plus ouvert du marché pour créer et gérer des solutions complètes qui optimisent l’expérience client. De nombreuses nouvelles applications d’Adobe ont été créées sur la base de l’expérience. [!DNL Platform], notamment :
+Expérience Adobe [!DNL Platform] est le système le plus puissant, le plus flexible et le plus ouvert du marché pour créer et gérer des solutions complètes qui optimisent l’expérience client. De nombreuses nouvelles applications d’Adobe ont été créées sur la base de l’expérience. [!DNL Platform], notamment :
 
 * Parcours client [!DNL Analytics]
 * Journey Optimizer
