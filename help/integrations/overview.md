@@ -1,21 +1,19 @@
 ---
-title: Configurations d’intégration pour les applications Adobe Experience Cloud
-description: Configurations d’intégration courantes des produits Adobe Experience Cloud.
-source-git-commit: 0dfb1462ea2b4c1dd1b3e83a2ffa39794f3b0246
+title: Intégrations d’applications
+description: Découvrez les configurations courantes de l’intégration des applications Experience Cloud. Découvrez comment les produits d’Adobe les mieux conçus pour les entreprises peuvent vous aider à relever les défis qui vous attendent.
+source-git-commit: e1655ab856d4623e4bbef0eb8099d94427cc3e62
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '161'
+ht-degree: 1%
 
 ---
 
 
-# Configurations d’intégration pour les produits Adobe Experience Cloud
+# Configurations d’intégration pour les applications Experience Cloud
 
-Que vous soyez familiarisé avec les produits Adobe Experience Cloud et que vous ne soyez pas certain de la meilleure manière de les intégrer, ou que vous connaissiez les objectifs commerciaux que vous essayez d’atteindre, mais que vous ne sachiez pas quels produits Adobe Experience Cloud vous devriez utiliser, vous avez trouvé le bon endroit.
+Connaissez-vous les applications Experience Cloud mais ne savez pas comment les intégrer au mieux ? Connaissez-vous les objectifs de votre entreprise, mais ne savez-vous pas quelles applications utiliser ? Vous êtes alors arrivé au bon endroit !
 
-Vous trouverez les intégrations de produits Adobe Experience Cloud les plus courantes organisées par solution commerciale et produit Adobe.
-
-Il existe de nombreuses façons de configurer les produits Adobe, qui dépendent fortement de votre environnement.  Utilisez ces tutoriels et vidéos comme conseils pour le déploiement en l’état ou la modification afin de répondre aux besoins de votre environnement.
+Ces tutoriels sur l’intégration des Experience Cloud décrivent certaines des intégrations d’applications les plus courantes disponibles. Vos options de configuration dépendent de votre environnement. Nous avons donc organisé les intégrations par solutions et applications commerciales. Utilisez ces tutoriels et vidéos comme conseils pour effectuer un déploiement en l’état ou vous pouvez les modifier pour répondre aux besoins de votre environnement.
 
 <table>
 <tr>
@@ -28,15 +26,15 @@ Il existe de nombreuses façons de configurer les produits Adobe, qui dépendent
 </tr>
 <tr>
    <td>
-      <div><strong><a href="./integrations-between-applications/overview.md">Par produit</a></strong></div>
+      <div><strong><a href="./integrations-between-applications/overview.md">Par application</a></strong></div>
       <p>
-        Vous savez quels Adobes utiliser et vous voulez apprendre à les intégrer.
+        Vous savez quelles applications d’Adobe utiliser et vous souhaitez apprendre à les intégrer.
       </p>
    </td>
    <td>
       <div><strong><a href="./solution-categories/overview.md">Par solution commerciale</a></strong></div>
       <p>
-        Vous connaissez la solution d’entreprise que vous recherchez, mais vous ne savez pas quels produits d’Adobe utiliser.
+        Vous connaissez la solution d’entreprise que vous recherchez, mais vous ne savez pas quelles applications d’Adobe utiliser.
       </p>
    </td>  
 </tr>   
