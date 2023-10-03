@@ -1,17 +1,19 @@
 ---
-title: Configurations d’intégration pour les applications Adobe Experience Cloud - par produit
-description: Configurations des intégrations courantes des applications Adobe Experience Cloud organisées par produit.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Configurations d’intégration - par application
+description: Découvrez les configurations d’intégration courantes pour Experience Cloud, organisées par applications.
+exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
+# Configurations d’intégration pour Experience Cloud - organisées par application
 
-# Configurations d’intégration pour les produits Adobe Experience Cloud - par produit
+Cette section est destinée à toute personne familière avec les applications Adobe qui souhaite créer de la valeur ajoutée en intégrant plusieurs applications Adobe. Nous avons organisé de nombreuses configurations d’intégration courantes pour les applications Adobe Enterprise et les avons mises en correspondance avec des cas d’utilisation réels.
 
-Cette section est destinée à toute personne disposant d’une bonne connaissance des produits Adobe désireuse de créer de la valeur commerciale en intégrant plusieurs produits Adobe.  Nous avons organisé de nombreuses configurations d’intégration courantes pour les produits Adobe Enterprise et nous les avons mappés à des cas d’utilisation réels.  Il existe de nombreuses façons de configurer les produits Adobe en fonction de votre environnement.  Cette section a pour but de fournir des conseils que vous pouvez déployer en l’état ou modifier pour répondre aux besoins de votre environnement.
+Il existe de nombreuses façons de configurer des applications Adobe, en fonction de votre environnement. Cette section fournit des conseils pour vous aider à déployer en l’état ou à les modifier en fonction des besoins de votre environnement.
 
 >[!NOTE]
 >

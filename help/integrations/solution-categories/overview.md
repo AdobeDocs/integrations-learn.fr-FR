@@ -1,17 +1,19 @@
 ---
-title: Configurations d’intégration pour les applications Adobe Experience Cloud - par solution
-description: Configurations des intégrations courantes des applications Adobe Experience Cloud organisées par solution.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Configurations de l’intégration des applications - par solution commerciale
+description: Découvrez les configurations d’intégration courantes pour les applications Experience Cloud, organisées par solutions d’entreprise.
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 11%
+source-wordcount: '183'
+ht-degree: 4%
 
 ---
 
+# Configurations d’intégration pour Experience Cloud - organisées par solution
 
-# Configurations d’intégration pour les applications Adobe Experience Cloud - par solution
+Cette section aide quiconque a des besoins professionnels, mais ne sait pas quels Adobes d’applications utiliser et comment les intégrer. Voici la plupart des configurations d’intégration les plus courantes, organisées par solutions (marketing B2B, chaîne d’approvisionnement en contenu, informations sur les données et activation, etc.).
 
-Cette section aidera quiconque a des besoins professionnels mais n’est pas certain des produits Adobes à utiliser et de la manière de les intégrer.  Nous avons organisé la plupart des configurations d’intégration les plus courantes pour les produits Adobe Enterprise par catégories de solutions.  Gardez à l’esprit qu’il existe de nombreuses façons de configurer les produits Adobe en fonction de votre environnement.  Cette section a pour but de fournir des conseils que vous pouvez déployer en l’état ou modifier pour répondre aux besoins de votre environnement.
+Gardez à l’esprit qu’il existe de nombreuses façons de configurer les applications Adobe, en fonction de votre environnement. Cette section a pour but de fournir des conseils que vous pouvez déployer en l’état ou modifier pour répondre aux besoins de votre environnement.
 
 <table>
 <tr>
@@ -24,7 +26,7 @@ Cette section aidera quiconque a des besoins professionnels mais n’est pas cer
     </td>
    <td>
       <a  href="./commerce.md"><img alt="Commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Commerce numérique B2B et B2C
       </p>
@@ -69,4 +71,3 @@ Cette section aidera quiconque a des besoins professionnels mais n’est pas cer
       </p>
    </td>
 </table>
-
