@@ -1,17 +1,19 @@
 ---
-title: Gestion de contenu
-description: Dans le paysage numérique actuel, la prise en charge des besoins uniques de millions de clients présente un défi de taille. Cependant, ça ne s'arrête pas là. Pour réussir, vous devez également posséder la capacité de découvrir, de connecter et de réutiliser rapidement des ressources approuvées sur divers appareils et canaux à l’échelle mondiale. En outre, il est essentiel d'obtenir des informations sur l'efficacité de ces expériences. Découvrez une solution complète qui vous permet de créer facilement des expériences numériques personnalisées, tout en assurant la gestion des ressources en temps réel, une diffusion efficace et une évaluation des performances.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+title: Intégrations d'applications pour la gestion de contenu
+description: Découvrez une solution complète qui vous permet de créer facilement des expériences numériques personnalisées, tout en assurant la gestion des ressources en temps réel, une diffusion efficace et une évaluation des performances.
+exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '671'
 ht-degree: 2%
 
 ---
 
-
 # Gestion de contenu
 
-Dans le paysage numérique actuel, la prise en charge des besoins uniques de millions de clients présente un défi de taille. Cependant, ça ne s&#39;arrête pas là. Pour réussir, vous devez également posséder la capacité de découvrir, de connecter et de réutiliser rapidement des ressources approuvées sur divers appareils et canaux à l’échelle mondiale. En outre, il est essentiel d&#39;obtenir des informations sur l&#39;efficacité de ces expériences. Découvrez une solution complète qui vous permet de créer facilement des expériences numériques personnalisées, tout en assurant la gestion des ressources en temps réel, une diffusion efficace et une évaluation des performances.
+Dans le paysage numérique actuel, la prise en charge des besoins uniques de millions de clients présente un défi de taille. Cependant, ça ne s&#39;arrête pas là. Pour réussir, vous devez également posséder la capacité de découvrir, de connecter et de réutiliser rapidement des ressources approuvées sur divers appareils et canaux à l’échelle mondiale. En outre, il est essentiel d&#39;obtenir des informations sur l&#39;efficacité de ces expériences.
+
+Découvrez une solution complète qui vous permet de créer facilement des expériences numériques personnalisées, tout en assurant la gestion des ressources en temps réel, une diffusion efficace et une évaluation des performances.
 
 <table>
  <thead>

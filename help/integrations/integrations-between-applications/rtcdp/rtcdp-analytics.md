@@ -1,7 +1,7 @@
 ---
-title: Intégration des données client en temps réel [!DNL Platform] avec [!DNL Analytics]
-description: Découvrez comment intégrer les données client en temps réel [!DNL Platform] avec [!DNL Analytics].
-solution: Real-Time Customer Data [!DNL Platform], [!DNL Analytics]
+title: Intégration d’ [!DNL Real-Time Customer Data Platform]  à  [!DNL Analytics]
+description: Découvrez comment intégrer le [!DNL Real-Time Customer Data Platform] avec [!DNL Analytics].
+solution: Real-Time Customer Data Platform, [!DNL Analytics]
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
@@ -10,14 +10,14 @@ kt: null
 thumbnail: analytics-rtcdp.png
 badgeIntegration: label="Intégration" type="positive"
 last-substantial-update: 2023-06-29T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 7c29bf9a-8855-4a8e-9a06-f537fbde84a4
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '20'
-ht-degree: 5%
+source-wordcount: '15'
+ht-degree: 20%
 
 ---
 
-
-# Intégration des données client en temps réel [!DNL Platform] avec [!DNL Analytics]
+# Intégration de Real-time Customer Data Platform à [!DNL Analytics]
 
 {{$include /help/_includes/integrations-between-applications/analytics-rtcdp.md}}

@@ -1,17 +1,18 @@
 ---
-title: Chaîne d’approvisionnement de contenu
+title: Intégrations d’applications pour la chaîne d’approvisionnement de contenu
 description: Planifiez, créez, personnalisez et publiez du contenu.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
 
-
 # Chaîne d’approvisionnement de contenu
 
 Planifiez, créez, personnalisez et publiez du contenu inoubliable pour chaque client, à la vitesse actuelle.
+
 Répondre aux attentes des clients en temps réel pour des expériences personnalisées nécessite plus de contenu numérique que jamais. Grâce aux solutions de gestion des ressources et des workflows créatifs d’Adobe, vos équipes peuvent planifier, créer et diffuser du contenu personnalisé à l’échelle qui prend en charge le parcours client à chaque point de contact.
 
 <table>

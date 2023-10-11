@@ -1,13 +1,13 @@
 ---
-title: Parcours client
+title: Intégrations d’applications pour le parcours client
 description: Développez des profils client en temps réel en extrayant des données de toutes les sources pour créer des parcours personnalisés et cross-canal.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
-
 
 # Parcours client
 
@@ -118,4 +118,3 @@ Développez des profils client en temps réel en extrayant des données de toute
 </tr>
 </tbody>
 </table>
-

@@ -1,13 +1,13 @@
 ---
-title: Marketing B2B
+title: Intégrations d'applications pour le marketing B2B
 description: Coordonnez la gestion des prospects, la gestion des actifs numériques et l’attribution à l’échelle sur l’ensemble des canaux en fonction des profils client et des données unifiés.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 2%
 
 ---
-
 
 # Marketing B2B
 
