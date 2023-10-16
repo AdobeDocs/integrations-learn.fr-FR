@@ -1,11 +1,11 @@
 ---
 title: Configurations de l’intégration des applications - par solution commerciale
-description: Découvrez les configurations d’intégration courantes pour les applications Experience Cloud, organisées par solutions d’entreprise.
+description: Découvrez les configurations d’intégration courantes pour les applications Experience Cloud, organisées par solutions d’entreprise.
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 4%
+ht-degree: 11%
 
 ---
 
