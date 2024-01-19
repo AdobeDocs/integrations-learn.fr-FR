@@ -12,13 +12,13 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="Intégration" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
+source-git-commit: 46803595cf8e199e0c331ea8b82f7fe4a2afc801
 workflow-type: tm+mt
-source-wordcount: '887'
-ht-degree: 6%
+source-wordcount: '821'
+ht-degree: 3%
 
 ---
-
 
 # Intégration d’[!DNL Analytics] à [!DNL Commerce]
 
@@ -50,12 +50,12 @@ Pour plus d’informations sur chaque phase et étape du processus d’intégrat
 
 1. Création d’une suite de rapports dans Adobe [!DNL Analytics]ou identifier l’identifiant de la suite de rapports que vous allez envoyer. [!DNL Commerce] dans . Pour plus d’informations, visionnez un tutoriel sur [création d’une suite de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr). Vous aurez besoin de cet identifiant de suite de rapports à l’étape de flux de données ci-dessous.
 
-1. Accédez au [Adobe Experience [!DNL Platform] interface](https://platform.adobe.com) si vous avez accès à Experience [!DNL Platform]. Si vous n’avez pas accès à cette interface, vous pouvez effectuer toutes les étapes nécessaires répertoriées ci-dessous dans Adobe Experience. [!DNL Platform] [Interface de collecte de données](https://experience.adobe.com/#/data-collection).
+1. Accédez au [Expérience Adobe [!DNL Platform] interface](https://platform.adobe.com) si vous avez accès à Experience [!DNL Platform]. Si vous n’avez pas accès à cette interface, vous pouvez effectuer toutes les étapes nécessaires répertoriées ci-dessous dans l’expérience Adobe. [!DNL Platform] [Interface de collecte de données](https://experience.adobe.com/#/data-collection).
 
 1. Créez ou mettez à jour votre schéma XDM avec [!DNL Commerce]groupes de champs spécifiques. Pour plus d’informations sur la création d’un schéma, reportez-vous à la section [&quot;Créer des schémas&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=fr) tutoriel .
    * Vous devrez sélectionner ce schéma parmi les options de l’étape de la flux de données ci-dessous. Pour créer un schéma, reportez-vous à la colonne de gauche sous **Data Management** et rechercher **Schémas**. Maintenant, en haut à droite de l’interface, cliquez sur **Créer un schéma**. Sélectionnez XDM ExperienceEvent.
    * Après avoir créé un nouveau schéma, vous allez ajouter le [!DNL Commerce] groupes de champs. Dans la partie gauche de l’interface utilisateur, recherchez les groupes de champs, puis cliquez sur **Ajouter**
-      * Dans la recherche, vous pouvez filtrer en saisissant `ExperienceEvent [!DNL Commerce]`
+      * Dans la recherche, vous pouvez filtrer en saisissant `ExperienceEvent Commerce`
       * Sélectionnez la variable **Adobe [!DNL Analytics] ExperienceEvent[!DNL Commerce]** en cochant la case
       * Cliquez ensuite sur **Ajouter des groupes de champs** en haut à droite pour enregistrer et continuer
 
@@ -75,7 +75,7 @@ Pour plus d’informations sur chaque phase et étape du processus d’intégrat
    * Cliquez sur **Enregistrer** pour continuer.
    * Cliquez sur **Ajouter un service** et choisissez **Adobe[!DNL Analytics]** dans le champ déroulant.
    * Cliquez sur **Ajouter une suite de rapports** et saisissez l’identifiant de la suite de rapports que vous avez créée/identifiée à l’étape précédente. Vous pouvez ajouter plusieurs suites de rapports si vous souhaitez que les données s’enchaînent dans plusieurs suites de rapports.
-   * Si vous avez éventuellement créé un jeu de données à l’étape précédente, cliquez sur **Ajouter un service** encore une fois, choix **Adobe Experience[!DNL Platform]** dans le champ déroulant. Dans le champ Jeu de données d’événement , sélectionnez le jeu de données que vous avez précédemment créé.
+   * Si vous avez éventuellement créé un jeu de données à l’étape précédente, cliquez sur **Ajouter un service** encore une fois, choix **Expérience Adobe[!DNL Platform]** dans le champ déroulant. Dans le champ Jeu de données d’événement , sélectionnez le jeu de données que vous avez précédemment créé.
    * Enregistrez le Datastream.
 
 1. Enfin, pour afficher [!DNL Commerce] données, vous devrez accéder à Analysis Workspace dans Adobe. [!DNL Analytics], créez un projet, choisissez votre suite de rapports, puis ajoutez des tableaux à structure libre et d’autres visualisations pour générer des rapports et analyser vos [!DNL Commerce] data. L’illustration suivante présente un exemple de tableau que vous pouvez créer dans Analysis Workspace.
@@ -85,8 +85,8 @@ Pour plus d’informations sur chaque phase et étape du processus d’intégrat
    Voici quelques ressources supplémentaires pour vous aider à travailler dans Analysis Workspace :
 
    * [Vue d’ensemble d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
-   * [Création dʼun projet d’espace de travail à partir de zéro](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
+   * [Création d’un projet Workspace à partir de zéro](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
    * [Utilisation des tableaux, visualisations et panneaux dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
-   * [Cas dʼutilisation des visualisations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
+   * [Cas d’utilisation de la visualisation](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-   De plus, des cours gratuits sont disponibles sur Experience League. Voir [!DNL Analytics] cours [ICI](https://experienceleague.adobe.com/?lang=en&amp;Solution=[!DNL Analytics]#courses).
+   De plus, des cours gratuits sont disponibles sur Experience League. Voir [!DNL Analytics] cours [ICI](https://experienceleague.adobe.com/?lang=en&amp;Solution=Analytics#courses).
