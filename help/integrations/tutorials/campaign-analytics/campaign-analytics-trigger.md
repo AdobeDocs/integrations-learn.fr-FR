@@ -1,5 +1,5 @@
 ---
-title: Intégrer [!DNL Campaign] Standard avec [!DNL Analytics] utilisation du tutoriel Triggers
+title: Tutoriel sur l’intégration de  [!DNL Campaign] Standard avec  [!DNL Analytics]  à l’aide de Triggers
 description: Découvrez comment configurer et utiliser des déclencheurs pour la messagerie transactionnelle.
 solution: Analytics, Campaign, Campaign Standard
 feature: Integrations
@@ -12,29 +12,29 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="Intégration" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: dbbaeeff-2c31-45c2-85af-ad1b80ba6c9c
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 44%
 
 ---
 
-
-# Intégrer [!DNL Campaign] Standard avec [!DNL Analytics] utilisation du tutoriel Triggers
+# Intégration de [!DNL Campaign] Standard à [!DNL Analytics] à l’aide du tutoriel Triggers
 
 Découvrez comment configurer et utiliser des déclencheurs pour la messagerie transactionnelle.
 
-## Configuration d’Adobe Experience [!DNL Platform] Collecte de données pour les déclencheurs
+## Configuration de la collecte de données de l’expérience d’Adobe [!DNL Platform] pour les déclencheurs
 
-Découvrez comment Adobe Experience [!DNL Platform] Collecte de données et ajoutez les propriétés requises à votre site web pour tester votre configuration.
+Découvrez comment Adobe la collecte de données d’expérience [!DNL Platform] et ajouter les propriétés requises à votre site web pour tester votre configuration.
 
 >[!IMPORTANT]
 >
-> Launch est désormais la fonctionnalité Balises d’Adobe Experience [!DNL Platform]. Il se trouve sous **Adobe Experience [!DNL Platform] Collections de données**.
+> Launch est désormais la fonctionnalité Balises de l’expérience d’Adobe [!DNL Platform]. Elle se trouve sous les **Collections de données d’expérience d’Adobe [!DNL Platform]**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
-## Création d’un déclencheur dans Experience Cloud
+## Création d&#39;un déclencheur dans Experience Cloud
 
 Découvrez comment configurer des déclencheurs dans Experience Cloud.
 
@@ -46,11 +46,8 @@ Découvrez comment créer un événement déclencheur dans [!DNL Campaign] Stand
 
 >[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 
-## Configuration de messages transactionnels à l’aide de données d’événement en temps réel
+## Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel
 
 Découvrez comment configurer des messages transactionnels à l’aide de données d’événement en temps réel issues de déclencheurs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
-
-
-

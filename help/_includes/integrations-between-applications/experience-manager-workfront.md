@@ -1,13 +1,13 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 6%
+source-wordcount: '206'
+ht-degree: 1%
 
 ---
 
 
-# Intégration de Experience Manager et Workfront
+# Intégration d’Experience Manager et de Workfront
 
 {{experience-manager-description}}
 
@@ -15,11 +15,11 @@ ht-degree: 6%
 
 AEM et Workfront rationalisent la production de contenu, ce qui permet une importation transparente de contenu géré de Workfront vers AEM pour une organisation et un accès efficaces, ce qui garantit une diffusion opportune et de haute qualité des ressources numériques. Principaux avantages :
 
-+ **Rationalisation de la production de contenu**: l’intégration d’AEM et Adobe Workfront optimise le processus de création de contenu de bout en bout.
-+ **Amélioration de la collaboration**: les équipes peuvent collaborer en toute transparence sur des projets de contenu, ce qui favorise une meilleure communication et une plus grande efficacité.
-+ **Amélioration de la gestion des ressources**: les fonctionnalités de suivi de projet Workfront permettent une meilleure allocation et une meilleure utilisation des ressources.
-+ **Approbations et révisions efficaces**: l’intégration d’AEM et de Workfront simplifie les processus d’approbation et de révision du contenu.
-+ **Délai de mise sur le marché plus rapide**: la solution combinée accélère la diffusion de contenu, réduisant le délai de mise sur le marché pour les campagnes et les ressources.
++ **Production de contenu rationalisée** : l’intégration d’AEM et d’Adobe Workfront optimise le processus de création de contenu de bout en bout.
++ **Amélioration de la collaboration** : les équipes peuvent collaborer en toute transparence sur des projets de contenu, ce qui favorise une meilleure communication et une plus grande efficacité.
++ **Amélioration de la gestion des ressources** : les fonctionnalités de suivi de projet Workfront permettent une meilleure allocation et une meilleure utilisation des ressources.
++ **Approbations et révisions efficaces** : l’intégration d’AEM et de Workfront simplifie les processus de révision et d’approbation du contenu.
++ **Délai de mise sur le marché plus rapide** : la solution combinée accélère la diffusion du contenu, réduisant le délai de mise sur le marché pour les campagnes et les ressources.
 
 ## Intégrations courantes
 
@@ -28,13 +28,13 @@ AEM et Workfront rationalisent la production de contenu, ce qui permet une impor
         <tr>
             <th>Applications Experience Cloud</th>
             <th>Intégrer à l’aide de</th>
-            <th>Conditions d’utilisation</th>
+            <th>Quand utiliser</th>
             <th>Cas d'utilisation courants</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=fr" target="_blank" rel="noreferrer">Workfront et AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront et AEM Assets Essentials</a></td>
             <td>Connecteur natif</td>
             <td>
               <ul style="margin-top: 0;">

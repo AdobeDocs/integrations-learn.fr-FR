@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 4%
+source-wordcount: '118'
+ht-degree: 2%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 4%
 
 {{marketo-description}}
 
-L’intégration de Experience Manager et de Marketo Engage offre plusieurs avantages, notamment :
+L’intégration d’Experience Manager et de Marketo Engage offre plusieurs avantages, notamment :
 
-+ **Création et gestion de formulaires**: AEM Forms permet la création facile de formulaires interactifs et s’intègre à Marketo Engage pour la génération de pistes.
-+ **Synchronisation des données**: AEM Forms synchronise les envois de formulaire avec Marketo Engage, ce qui garantit une capture et une gestion des pistes efficaces.
-+ **Prise en charge des pistes et automatisation des campagnes**: intégrez AEM Forms à Marketo Engage pour un transfert transparent des pistes, des suivis automatisés, des emails ciblés et un suivi des pistes.
++ **Création et gestion de formulaires** : AEM Forms permet de créer facilement des formulaires interactifs et s’intègre à Marketo Engage pour la génération de pistes.
++ **Synchronisation des données** : AEM Forms synchronise les envois de formulaire vers Marketo Engage, assurant une capture et une gestion efficaces des pistes.
++ **Prise en charge des pistes et automatisation des campagnes** : intégrez AEM Forms à Marketo Engage pour un transfert transparent des pistes, des suivis automatisés, des emails ciblés et un suivi des pistes.
 
 ## Intégrations courantes
 
@@ -25,7 +25,7 @@ L’intégration de Experience Manager et de Marketo Engage offre plusieurs avan
     <thead>
         <tr>
             <th>Applications Experience Cloud</th>
-            <th>Conditions d’utilisation</th>
+            <th>Quand utiliser</th>
             <th>Cas d'utilisation courants</th>
         </tr>
     </thead>

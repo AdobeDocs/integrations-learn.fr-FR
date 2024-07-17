@@ -26,7 +26,7 @@ Développez des profils client en temps réel en extrayant des données de toute
   <tbody>
 <tr>
   <td><strong>Création de documents marketing à l’aide de ressources de marque</strong><br></td>
-  <td>Créer et superviser le contenu et les modèles de marketing par e-mail à l’aide d’AEM et d’Adobe [!DNL Campaign].</td>
+  <td>Créez et supervoyez du contenu et des modèles de marketing par e-mail à l'aide de l'AEM et de l'Adobe [!DNL Campaign].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Envoi d’emails marketing créés avec AEM</li>
@@ -37,7 +37,7 @@ Développez des profils client en temps réel en extrayant des données de toute
 
 <tr>
   <td><strong>Capture des données client</strong><br></td>
- <td>Augmenter natif [!DNL Campaign] fonctionnalités permettant de capturer les données client pour le ciblage et la personnalisation des campagnes marketing.</td>
+ <td>Augmentez les fonctionnalités [!DNL Campaign] natives pour capturer les données client pour le ciblage et la personnalisation des campagnes marketing.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Créer des profils et collecter des informations supplémentaires. </li>
@@ -83,7 +83,7 @@ Développez des profils client en temps réel en extrayant des données de toute
 
 <tr>
   <td><strong>Personnaliser des diffusions email</strong><br></td>
-  <td>Personnaliser des diffusions email avec du contenu dynamique en tirant parti des fonctionnalités d’Adobe [!DNL Target].</td>
+  <td>Personnalisez des diffusions email avec du contenu dynamique en tirant parti des fonctionnalités d’Adobe [!DNL Target].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Ajout d’offres personnalisées aux e-mails des clients</li>
@@ -94,7 +94,7 @@ Développez des profils client en temps réel en extrayant des données de toute
 
 <tr>
   <td><strong>Personnalisation des expériences numériques</strong><br></td>
-  <td>Utilisation de profils client en temps réel et d’une gestion centralisée [!DNL Platform] segments pour personnaliser la messagerie sur le web, les appareils mobiles et d’autres canaux numériques.</td>
+  <td>Utilisez les profils client en temps réel et les segments [!DNL Platform] gérés de manière centralisée pour personnaliser les messages sur le web, les appareils mobiles et d’autres canaux numériques.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personnalisation du contenu pour les visiteurs connus</li>
@@ -108,7 +108,7 @@ Développez des profils client en temps réel en extrayant des données de toute
 
 <tr>
   <td><strong>Amélioration de la génération de pistes</strong><br></td>
-  <td>Utilisation de profils client en temps réel et d’une gestion centralisée [!DNL Platform] segments pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques</td>
+  <td>Utilisez les profils client en temps réel et les segments [!DNL Platform] gérés de manière centralisée pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personnalisation du contenu pour les visiteurs connus</li>

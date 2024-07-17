@@ -1,6 +1,6 @@
 ---
-title: Intégration d’AEM à [!DNL Analytics]
-description: Intégration de Adobe Experience Manager (AEM) avec [!DNL Analytics] pour suivre et analyser le comportement des utilisateurs sur votre site web.
+title: Intégrer l’AEM à  [!DNL Analytics]
+description: Intégrez Adobe Experience Manager (AEM) à  [!DNL Analytics]  pour suivre et analyser le comportement des utilisateurs sur votre site web.
 solution: Experience Manager, Experience Manager Sites, [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# Intégration du Experience Manager avec [!DNL Analytics]
+# Intégrer l’Experience Manager à [!DNL Analytics]
 
 {{$include /help/_includes/integrations-between-applications/analytics-experience-manager.md}}

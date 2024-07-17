@@ -5,16 +5,16 @@ user-guide-description: Intégrations Formation.
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 34%
+source-wordcount: '91'
+ht-degree: 19%
 
 ---
 
 
-# [!DNL Experience Cloud] tutoriels d’intégration {#experience-cloud}
+# Tutoriels d’intégration [!DNL Experience Cloud] {#experience-cloud}
 
 + [[!DNL Experience Cloud] Intégrations](./overview.md)
-+ Catégories de solution{#solution-categories}
++ Catégories de solutions{#solution-categories}
    + [Vue d’ensemble](./solution-categories/overview.md)
    + [Marketing B2B](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
@@ -22,8 +22,8 @@ ht-degree: 34%
    + [Chaîne d’approvisionnement de contenu](./solution-categories/content-supply-chain.md)
    + [Parcours clients](./solution-categories/customer-journeys.md)
    + [Informations et activation des données](./solution-categories/data-insights.md)
-   + [Personnalisation à grande échelle](./solution-categories/personalization.md)
-+ Intégrations de produits{#integrations-between-applications}
+   + [Personalization à grande échelle](./solution-categories/personalization.md)
++ Intégrations de produit{#integrations-between-applications}
    + [Vue d’ensemble](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
@@ -62,7 +62,7 @@ ht-degree: 34%
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
    + Expérience [!DNL Platform]{#experience-platform}
       + [Vue d’ensemble](./integrations-between-applications/experience-platform/platform.md)
-   + Journey Optimizer{#journey-optimizer}
+   + Journey Optimizer{#journey-optimizer}
       + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
    + [!DNL Marketo Engage]{#marketo}
       + [[!DNL Experience Manager]](./integrations-between-applications/marketo/marketo-experience-manager.md)
@@ -92,12 +92,12 @@ ht-degree: 34%
    + [!DNL Analytics] et [!DNL Target]{#analytics-target}
       + [[!DNL Analytics] et [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] et [!DNL Analytics]{#campaign-analytics}
-      + [Intégrer [!DNL Campaign] Standard avec [!DNL Analytics] utilisation du tutoriel Triggers](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + [Tutoriel sur l’intégration de  [!DNL Campaign] Standard avec  [!DNL Analytics]  à l’aide de Triggers](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] et Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 et Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] et Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8 et Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
-   + CDP en équipe réelle{#rtcdp-target}
+   + CDP de l’équipe réelle{#rtcdp-target}
       + [Real-Time CDP et [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP et [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP et [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)

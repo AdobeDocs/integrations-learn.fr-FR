@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# Intégration du Marketo Engage à Experience Manager
+# Intégration du Marketo Engage à l’Experience Manager
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-marketo.md}}

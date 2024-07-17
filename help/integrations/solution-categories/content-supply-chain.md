@@ -5,7 +5,7 @@ exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ Répondre aux attentes des clients en temps réel pour des expériences personna
   <tbody>
 <tr>
   <td><strong>Création de documents marketing à l’aide de ressources de marque</strong><br/></td>
-  <td>Créer et superviser le contenu et les modèles de marketing par e-mail à l’aide d’AEM et d’Adobe [!DNL Campaign].</td>
+  <td>Créez et supervoyez du contenu et des modèles de marketing par e-mail à l'aide de l'AEM et de l'Adobe [!DNL Campaign].</td>
   <td>
     <ul>
       <li>Envoi d’emails marketing créés avec AEM</li>
@@ -46,7 +46,7 @@ Répondre aux attentes des clients en temps réel pour des expériences personna
       <li>Amélioration de la gestion des projets</li>
     </ul>    
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md"> AEM Assets et Workfront</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets et Workfront</a></td>
 </tr>
 <tr>
   <td>Coordonnez et mesurez la création et l’utilisation des ressources dans un service en intégrant AEM Assets Essentials et Workfront.</td>
@@ -84,7 +84,7 @@ Répondre aux attentes des clients en temps réel pour des expériences personna
 </tr>
 <tr>
   <td><strong>Capture des données client</strong><br/></td>
-  <td>Augmenter natif [!DNL Campaign] fonctionnalités permettant de capturer les données client pour le ciblage et la personnalisation des campagnes marketing.
+  <td>Augmentez les fonctionnalités [!DNL Campaign] natives pour capturer les données client pour le ciblage et la personnalisation des campagnes marketing.
   </td>
   <td>
     <ul>

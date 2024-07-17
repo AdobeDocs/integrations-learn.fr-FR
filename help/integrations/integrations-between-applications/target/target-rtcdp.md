@@ -1,6 +1,6 @@
 ---
-title: Intégrer l’Adobe [!DNL Target] avec Adobe Real-time Customer Data Platform
-description: Découvrez comment intégrer Adobe [!DNL Target] avec Adobe Real-time Customer Data Platform.
+title: Intégrer Adobe [!DNL Target]  avec Adobe Real-Time Customer Data Platform
+description: Découvrez comment intégrer Adobe [!DNL Target] à Adobe Real-Time Customer Data Platform.
 solution: Target, Real-Time Customer Data Platform
 feature-set: Experience [!DNL Platform], [!DNL Target]
 feature: Integrations, Audiences, Segments, Profiles
@@ -19,6 +19,6 @@ ht-degree: 3%
 
 ---
 
-# Intégrer l’Adobe [!DNL Target] avec Adobe Real-time Customer Data Platform
+# Intégration de l’Adobe [!DNL Target] à Adobe Real-Time Customer Data Platform
 
 {{$include /help/_includes/integrations-between-applications/rtcdp-target.md}}

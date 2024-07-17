@@ -5,7 +5,7 @@ exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td><strong>Création de documents marketing à l’aide de ressources de marque</strong></td>
       <td>
-        Créer et superviser le contenu et les modèles de marketing par e-mail à l’aide d’AEM et d’Adobe [!DNL Campaign].
+        Créez et supervoyez du contenu et des modèles de marketing par e-mail à l’aide d’AEM et de
+        Adobe [!DNL Campaign].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -47,7 +48,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td><strong>Mesure de l’utilisation et des performances des images marketing</strong></td>
       <td>
-        Tracker et analyser l’efficacité des images marketing en intégrant AEM Assets et Adobe [!DNL Analytics].
+        Tracker et analyser l’efficacité des images marketing en intégrant
+        AEM Assets et Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -68,7 +70,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td rowspan="3"><strong>Gestion de la création de ressources</strong></td>
       <td>
-        Coordonner et mesurer la création de ressources dans une entreprise en intégrant AEM Assets et Workfront.
+        Coordonner et mesurer la création de ressources dans une entreprise
+        en intégrant AEM Assets et Workfront.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -89,7 +92,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     </tr>
     <tr>
       <td>
-        Coordonnez et mesurez la création de ressources dans un service en intégrant AEM Assets Essentials et Workfront.
+        Coordonner et mesurer la création de ressources dans un service en procédant comme suit :
+        intégration d’AEM Assets Essentials et de Workfront.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -103,13 +107,14 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
           href="../integrations-between-applications/experience-manager/experience-manager-workfront.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Assets Essentials et Workfront</a
+          >AEM Assets Essentials and Workfront</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Création et gestion des mises à jour des ressources dans les applications Creative Cloud et Workfront
+        Création et gestion des mises à jour de ressources dans Creative Cloud et Workfront
+        applications
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -130,7 +135,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td><strong>Capture des données client</strong></td>
       <td>
-        Augmenter natif [!DNL Campaign] fonctionnalités permettant de capturer les données client pour le ciblage et la personnalisation des campagnes marketing.
+        Augmenter les fonctionnalités [!DNL Campaign] natives pour capturer des données client pour
+        ciblage et personnalisation des campagnes marketing.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -150,12 +156,14 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td><strong>Créer des documents de PDF personnalisés</strong></td>
       <td>
-        Générer des documents de communication pour la signature en fonction des sélections/préférences des utilisateurs.
+        Générer des documents de communication pour la signature en fonction de l’utilisateur
+        sélections/préférences.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Présenter un NDA généré dynamiquement en fonction des données d’un envoi AEM Forms pour signature
+            Présenter un NDA généré dynamiquement en fonction des données d’une AEM
+            Envoi Forms pour signature
           </li>
         </ul>
       </td>
@@ -171,12 +179,14 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td><strong>Générer des pistes</strong></td>
       <td>
-        Utilisez les données capturées des envois de formulaire pour la génération de pistes, la segmentation des clients et les campagnes marketing personnalisées.
+        Utiliser les données capturées des envois de formulaire pour la génération de pistes,
+        segmentation des clients et campagnes marketing personnalisées.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Concevez et publiez des formulaires dynamiques et interactifs pour les appareils web et mobiles à des fins de génération de pistes.
+            Concevoir et publier des formulaires dynamiques et interactifs pour le web et les appareils mobiles
+            périphériques à des fins de génération de pistes.
           </li>
         </ul>
       </td>
@@ -192,7 +202,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td><strong>Personnaliser des diffusions email</strong></td>
       <td>
-        Personnaliser des diffusions email avec du contenu dynamique en tirant parti des fonctionnalités d’Adobe [!DNL Target].
+        Personnalisez des diffusions email avec du contenu dynamique en utilisant la méthode
+        fonctionnalités de l’Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -211,18 +222,22 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td rowspan="2"><strong>Développer les audiences pour la personnalisation et les plateformes publicitaires</strong></td>
       <td>
-        Utilisez les segments d’Audience Manager pour créer des audiences dans la plateforme des données clients en temps réel à utiliser dans les tactiques de personnalisation et de remarketing.
+        Utilisation des segments d’Audience Manager pour créer des audiences dans la plateforme de données clients en temps réel pour utiliser
+        dans les tactiques de personnalisation et de remarketing.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Effectuez un ciblage et une personnalisation anonymes d’audience numérique sur le site web, l’application mobile ou sur les canaux publicitaires pris en charge
+            Effectuez un ciblage et une personnalisation anonymes d’audience numérique sur
+            le site web, l’application mobile ou sur les canaux publicitaires pris en charge ;
           </li>
           <li>
-            Optimiser les expériences de page d’entrée et de pré-authentification en fonction des caractéristiques de comportement et de périphérique connues
+            Optimiser les expériences de page d’entrée et de pré-authentification en fonction de
+            appareil connu et caractéristiques comportementales
           </li>
           <li>
-            Tirez parti du réseau de données tiers d’Audience Manager pour affiner et développer davantage vos audiences en vue du ciblage.
+            Tirer parti du réseau de données tiers de l’Audience Manager pour aller plus loin
+            affiner et développer vos audiences pour le ciblage
           </li>
           <li>Partage des segments d’Audience Manager sur la plateforme RTCDP</li>
         </ul>
@@ -232,21 +247,24 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager et données client en temps réel [!DNL Platform]</a
+          > Audience Manager et données client en temps réel [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Utilisation [!DNL Analytics] données pour la création d’audiences à utiliser dans les tactiques de personnalisation ou de remarketing.
+        Utiliser les données [!DNL Analytics] pour créer des audiences à utiliser dans la personnalisation ou
+        tactiques de remarketing.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Effectuez le ciblage et la personnalisation d’audience numérique sur les appareils ou les canaux publicitaires pris en charge.
+            Effectuer un ciblage et une personnalisation d’audience numérique sur des appareils ou
+            prise en charge des canaux publicitaires.
           </li>
           <li>
-            Optimisez les landing pages clients connues et les expériences anonymes en fonction des attributs de périphérique et de comportement.
+            Optimiser les landing pages des clients connus et les expériences anonymes
+            en fonction des attributs de périphérique et de comportement.
           </li>
           <li>Activez les audiences sur les canaux connus, tels que les emails et les SMS.</li>
         </ul>
@@ -263,7 +281,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td rowspan="2"><strong>Personnalisation des expériences web</strong></td>
       <td>
-        Personnalisez des expériences d’application d’une seule page (SPA) en utilisant efficacement AEM sans affichage conjointement avec Adobe [!DNL Target].
+        Personnalisez des expériences d’application d’une seule page (SPA) en
+        Utilisation d'AEM sans affichage conjointement avec l'Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -283,7 +302,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     </tr>
     <tr>
       <td>
-        Proposer des expériences web personnalisées en utilisant efficacement AEM Sites et Adobe [!DNL Target] pour la personnalisation.
+        Proposer des expériences web personnalisées en utilisant efficacement AEM Sites
+        et Adobe [!DNL Target] pour la personnalisation.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -304,7 +324,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td><strong>Personnalisation des expériences numériques</strong></td>
       <td>
-        Utilisation de profils client en temps réel et d’une gestion centralisée [!DNL Platform] segments pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
+        Utilisation de profils client en temps réel et de segments [!DNL Platform] gérés de manière centralisée
+        pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -326,7 +347,8 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
     <tr>
       <td><strong>Amélioration de la génération de pistes</strong></td>
       <td>
-        Utilisation de profils client en temps réel et d’une gestion centralisée [!DNL Platform] segments pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
+        Utilisation de profils client en temps réel et de segments [!DNL Platform] gérés de manière centralisée
+        pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
       </td>
       <td>
         <ul style="margin-top: 0;">

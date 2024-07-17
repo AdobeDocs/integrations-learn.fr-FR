@@ -1,6 +1,6 @@
 ---
-title: Intégration de Real-time Customer Data Platform à [!DNL Campaign]
-description: Découvrez comment intégrer Real-time Customer Data Platform à [!DNL Campaign]
+title: Intégration de Real-Time Customer Data Platform à [!DNL Campaign]
+description: Découvrez comment intégrer Real-Time Customer Data Platform à  [!DNL Campaign]
 solution: Real-Time Customer Data Platform, [!DNL Campaign]
 feature: Integrations
 topic: Integrations

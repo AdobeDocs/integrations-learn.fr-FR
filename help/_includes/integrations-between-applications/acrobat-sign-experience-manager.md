@@ -2,12 +2,12 @@
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
 
-# Intégration d’Acrobat Sign et de Experience Manager
+# Intégration d’Acrobat Sign et d’Experience Manager
 
 {{acrobat-sign-description}}
 
@@ -15,10 +15,10 @@ ht-degree: 4%
 
 L’intégration d’Acrobat Sign à Adobe Experience Manager (AEM) présente les avantages suivants :
 
-+ **Processus de document rationalisés**: automatisez la signature des documents dans AEM Forms, accélérez les approbations et supprimez la gestion manuelle.
-+ **Amélioration de l’expérience utilisateur**: activez les signatures électroniques, réduisant l’impression et l’envoi pour des processus plus rapides et plus efficaces.
-+ **Plus grande précision et sécurité**: garantissez l’intégrité des données avec les champs de formulaire mappés tout en respectant la conformité du secteur et les fonctionnalités de sécurité fiables.
-+ **Accessibilité mobile et à distance**: connectez des documents sur n’importe quel appareil, en prenant en charge les programmes de travail distants avec une conception adaptée aux différentes tailles d’écran.
++ **Processus de document rationalisés** : Automatisez la signature de documents dans AEM Forms, accélérez les approbations et éliminez la gestion manuelle.
++ **Expérience utilisateur améliorée** : activez les signatures électroniques, réduisant l’impression et l’envoi pour des processus plus rapides et plus efficaces.
++ **Plus grande précision et sécurité** : garantissez l’intégrité des données avec les champs de formulaire mappés, tout en respectant la conformité du secteur et des fonctionnalités de sécurité fiables.
++ **Accessibilité mobile et à distance** : signez des documents sur n’importe quel appareil, en prenant en charge les programmes de travail distants avec une conception réactive pour différentes tailles d’écran.
 
 ## Intégrations courantes
 
@@ -26,7 +26,7 @@ L’intégration d’Acrobat Sign à Adobe Experience Manager (AEM) présente le
     <thead>
         <tr>
             <th>Applications Experience Cloud</th>
-            <th>Conditions d’utilisation</th>
+            <th>Quand utiliser</th>
             <th>Cas d'utilisation courants</th>
         </tr>
     </thead>

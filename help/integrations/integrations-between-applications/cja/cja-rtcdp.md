@@ -1,6 +1,6 @@
 ---
 title: Intégrer le Parcours client [!DNL Analytics] avec [!DNL Real-Time Customer Data Platform]
-description: Découvrez comment intégrer Customer Parcours [!DNL Analytics] avec [!DNL Real-Time Customer Data Platform].
+description: Découvrez comment intégrer le Parcours client [!DNL Analytics] à [!DNL Real-Time Customer Data Platform].
 solution: Customer Journey [!DNL Analytics], Real-Time Customer Data [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# Intégrer le Parcours client [!DNL Analytics] avec données client en temps réel [!DNL Platform]
+# Intégrer le Parcours client [!DNL Analytics] aux données client en temps réel [!DNL Platform]
 
 {{$include /help/_includes/integrations-between-applications/cja-rtcdp.md}}

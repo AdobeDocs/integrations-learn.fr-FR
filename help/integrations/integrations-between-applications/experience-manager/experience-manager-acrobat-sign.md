@@ -18,6 +18,6 @@ ht-degree: 3%
 
 ---
 
-# Intégration du Experience Manager à Acrobat Sign
+# Intégration d’Experience Manager à Acrobat Sign
 
 {{$include /help/_includes/integrations-between-applications/acrobat-sign-experience-manager.md}}

@@ -4,7 +4,7 @@ description: Coordonnez la gestion des prospects, la gestion des actifs numériq
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Coordonnez la gestion des prospects, la gestion des actifs numériques et l’at
 
 <tr>
   <td rowspan="1"><strong>Développer les audiences pour la personnalisation et les plateformes publicitaires</strong><br/></td> 
-  <td>Utilisation [!DNL Analytics] données pour la création d’audiences à utiliser dans les tactiques de personnalisation ou de remarketing.</td>
+  <td>Utilisez les données [!DNL Analytics] pour créer des audiences à utiliser dans des tactiques de personnalisation ou de remarketing.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Effectuez le ciblage et la personnalisation d’audience numérique sur les appareils ou les canaux publicitaires pris en charge.</li>
@@ -54,7 +54,7 @@ Coordonnez la gestion des prospects, la gestion des actifs numériques et l’at
 
 <tr>
   <td><strong>Personnalisation des expériences numériques</strong><br/></td>
-  <td> Utilisation de profils client en temps réel et d’une gestion centralisée [!DNL Platform] segments pour personnaliser la messagerie sur le web, les appareils mobiles et d’autres canaux numériques.
+  <td> Utilisez les profils client en temps réel et les segments [!DNL Platform] gérés de manière centralisée pour personnaliser les messages sur le web, les appareils mobiles et d’autres canaux numériques.
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -70,7 +70,7 @@ Coordonnez la gestion des prospects, la gestion des actifs numériques et l’at
 <tr>
   <td><strong>Amélioration de la génération de pistes</strong><br/></td>
   <td>
-    Utilisation de profils client en temps réel et d’une gestion centralisée [!DNL Platform] segments pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
+    Utilisez les profils client en temps réel et les segments [!DNL Platform] gérés de manière centralisée pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques.
   </td>
   <td>
     <ul style="margin-top: 0;">

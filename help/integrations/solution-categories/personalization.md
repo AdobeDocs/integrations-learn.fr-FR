@@ -9,7 +9,7 @@ ht-degree: 1%
 
 ---
 
-# Personnalisation à grande échelle
+# Personalization à grande échelle
 
 Dans un paysage actuel hautement compétitif et axé sur le numérique, les clients en sont venus à s’attendre à des expériences adaptées à leurs préférences et à leurs besoins uniques. L’exploitation des fonctionnalités de Adobe Experience Cloud nous permet de collecter et d’analyser des données client complètes, ce qui nous permet de disposer d’informations précieuses sur les comportements, les intérêts et les préférences. Cette compréhension profonde facilite la diffusion d’expériences personnalisées sur différents points de contact, assurant des interactions significatives et attrayantes. L’exploitation de la puissance de Adobe Experience Cloud libère tout le potentiel de la personnalisation, favorise des relations plus étroites avec les clients, favorise la fidélité et favorise la croissance des entreprises.
 
@@ -26,12 +26,14 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
     <tr>
       <td><strong>Créer des documents de PDF personnalisés</strong></td>
       <td>
-        Générer des documents de communication pour la signature en fonction des sélections/préférences des utilisateurs.
+        Générer des documents de communication pour la signature en fonction de l’utilisateur
+        sélections/préférences.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Présenter un NDA généré dynamiquement en fonction des données d’un envoi AEM Forms pour signature
+            Présenter un NDA généré dynamiquement en fonction des données d’une AEM
+            Envoi Forms pour signature
           </li>
         </ul>
       </td>
@@ -40,14 +42,14 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
           href="../integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms et signature</a
+          >AEM Forms et Sign</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Analyse et reporting des données</strong></td>
       <td>
-        Analyse des données comportementales à partir d’expériences numériques <br />Utiliser l’Adobe
+        Analyser les données comportementales à partir d’expériences numériques <br />Utiliser l’Adobe
         [!DNL Analytics] données comportementales dans Analysis Workspace dans le Parcours client
         [!DNL Analytics].
       </td>
@@ -73,7 +75,9 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
     </tr>
     <tr>
       <td>
-        Reporting pour les activités de personnalisation<br />Analyser les résultats des tests d’optimisation, y compris les tests A/B, en utilisant l’Adobe [!DNL Target] et générer des rapports complets par Adobe [!DNL Analytics].
+        Reporting pour les activités de personnalisation<br />Analyse de l'optimisation
+        tester les résultats, y compris les tests A/B, en utilisant l’Adobe [!DNL Target] et
+        génération de rapports complets par Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -92,7 +96,8 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
     <tr>
       <td><strong>Personnaliser des diffusions email</strong></td>
       <td>
-        Personnaliser des diffusions email avec du contenu dynamique en tirant parti des fonctionnalités d’Adobe [!DNL Target].
+        Personnalisez des diffusions email avec du contenu dynamique en utilisant la méthode
+        fonctionnalités de l’Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -113,18 +118,22 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
         <strong>Développer les audiences pour la personnalisation et les plateformes publicitaires</strong>
       </td>
       <td>
-        Utilisez les segments d’Audience Manager pour créer des audiences dans Real-Time CDP à utiliser dans les tactiques de personnalisation et de remarketing.
+        Utilisation des segments d’Audience Manager pour créer des audiences dans Real-Time CDP vers
+        à utiliser dans les tactiques de personnalisation et de remarketing.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Effectuez un ciblage et une personnalisation anonymes d’audience numérique sur le site web, l’application mobile ou sur les canaux publicitaires pris en charge
+            Effectuez un ciblage et une personnalisation anonymes d’audience numérique sur
+            le site web, l’application mobile ou sur les canaux publicitaires pris en charge ;
           </li>
           <li>
-            Optimiser les expériences de page d’entrée et de pré-authentification en fonction des caractéristiques de comportement et de périphérique connues
+            Optimiser les expériences de page d’entrée et de pré-authentification en fonction de
+            appareil connu et caractéristiques comportementales
           </li>
           <li>
-            Tirez parti du réseau de données tiers d’Audience Manager pour affiner et développer davantage vos audiences en vue du ciblage.
+            Tirer parti du réseau de données tiers de l’Audience Manager pour continuer
+            affiner et développer vos audiences pour le ciblage
           </li>
           <li>Partage des segments d’Audience Manager sur la plateforme RTCDP</li>
         </ul>
@@ -134,21 +143,24 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager et données client en temps réel [!DNL Platform]</a
+          > Audience Manager et données client en temps réel [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Utilisation [!DNL Analytics] données pour la création d’audiences à utiliser dans les tactiques de personnalisation ou de remarketing.
+        Utiliser les données [!DNL Analytics] pour créer des audiences à utiliser dans la personnalisation ou
+        tactiques de remarketing.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Effectuez le ciblage et la personnalisation d’audience numérique sur les appareils ou les canaux publicitaires pris en charge.
+            Effectuer un ciblage et une personnalisation d’audience numérique sur des appareils ou
+            prise en charge des canaux publicitaires.
           </li>
           <li>
-            Optimisez les landing pages clients connues et les expériences anonymes en fonction des attributs de périphérique et de comportement.
+            Optimiser les landing pages des clients connus et les expériences anonymes
+            en fonction des attributs de périphérique et de comportement.
           </li>
           <li>Activez les audiences sur les canaux connus, tels que les emails et les SMS.</li>
         </ul>
@@ -165,7 +177,8 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
     <tr>
       <td rowspan="2"><strong>Personnalisation des expériences web</strong></td>
       <td>
-        Personnalisez des expériences d’application d’une seule page (SPA) en utilisant efficacement AEM sans affichage conjointement avec Adobe [!DNL Target].
+        Personnalisez des expériences d’application d’une seule page (SPA) en
+        Utilisation d'AEM sans affichage conjointement avec l'Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -186,7 +199,8 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
     </tr>
     <tr>
       <td>
-        Proposer des expériences web personnalisées en utilisant efficacement AEM Sites et Adobe [!DNL Target] pour la personnalisation.
+        Proposer des expériences web personnalisées en utilisant efficacement AEM Sites
+        et Adobe [!DNL Target] pour la personnalisation.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -208,7 +222,8 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
     <tr>
       <td><strong>Personnalisation des expériences numériques</strong></td>
       <td>
-        Utilisation de profils client en temps réel et d’une gestion centralisée [!DNL Platform] segments pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
+        Utilisation de profils client en temps réel et de segments [!DNL Platform] gérés de manière centralisée
+        pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -230,7 +245,8 @@ Dans un paysage actuel hautement compétitif et axé sur le numérique, les clie
     <tr>
       <td><strong>Amélioration de la génération de pistes</strong></td>
       <td>
-        Utilisation de profils client en temps réel et d’une gestion centralisée [!DNL Platform] segments pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
+        Utilisation de profils client en temps réel et de segments [!DNL Platform] gérés de manière centralisée
+        pour personnaliser les messages sur les canaux web, mobiles et autres canaux numériques
       </td>
       <td>
         <ul style="margin-top: 0;">

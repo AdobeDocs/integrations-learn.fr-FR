@@ -20,6 +20,6 @@ ht-degree: 4%
 
 ---
 
-# Intégration du Experience Manager à Journey Optimizer
+# Intégration d’Experience Manager à Journey Optimizer
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-journey-optimizer.md}}

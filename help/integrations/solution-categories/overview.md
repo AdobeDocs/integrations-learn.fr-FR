@@ -4,8 +4,8 @@ description: Découvrez les configurations d’intégration courantes pour les a
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 11%
+source-wordcount: '178'
+ht-degree: 10%
 
 ---
 
@@ -25,7 +25,7 @@ Gardez à l’esprit qu’il existe de nombreuses façons de configurer les appl
       </p>
     </td>
    <td>
-      <a  href="./commerce.md"><img alt="Commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <a  href="./commerce.md"><img alt="commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
       <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Commerce numérique B2B et B2C
@@ -49,14 +49,14 @@ Gardez à l’esprit qu’il existe de nombreuses façons de configurer les appl
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Parcours clients" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Parcours clients</a></strong></div>
+      <div><strong><a href="./customer-journeys.md">parcours client</a></strong></div>
       <p>
         Orchestration et diffusion omnicanal
       </p> 
     </td>
    <td>
       <a  href="./data-insights.md"><img alt="Informations sur les données et activation" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
-      <div><strong><a href="./data-insights.md"> Informations et activation des données</a></strong></div>
+      <div><strong><a href="./data-insights.md"> Informations sur les données et activation</a></strong></div>
       <p>
         [!DNL Analytics] et gestion de l’audience
       </p>
@@ -64,8 +64,8 @@ Gardez à l’esprit qu’il existe de nombreuses façons de configurer les appl
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personnalisation à grande échelle" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">Personnalisation à l’échelle</a></strong></div>
+      <a  href="./personalization.md"><img alt="Personalization à grande échelle" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalization as scale</a></strong></div>
       <p>
         Comment rendre chaque connexion personnelle
       </p>

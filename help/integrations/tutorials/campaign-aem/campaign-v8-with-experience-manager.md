@@ -1,6 +1,6 @@
 ---
-title: Intégrer [!DNL Campaign] Tutoriel v8 avec Experience Manager
-description: Découvrez comment connecter Adobe [!DNL Campaign] avec Adobe Experience Manager pour gérer les modèles de diffusion email, les ressources et les formulaires dans Experience Manager.
+title: Tutoriel Intégration de [!DNL Campaign] v8 à Experience Manager
+description: Découvrez comment connecter Adobe [!DNL Campaign] à Adobe Experience Manager pour gérer les modèles de diffusion d’emails, les ressources et les formulaires dans Experience Manager.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
 topic: Integrations
@@ -20,27 +20,27 @@ ht-degree: 0%
 
 ---
 
-# Intégrer [!DNL Campaign] Tutoriel v8 avec Experience Manager
+# Tutoriel Intégration de [!DNL Campaign] v8 à Experience Manager
 
-Découvrez comment connecter Adobe [!DNL Campaign] avec Adobe Experience Manager pour gérer les modèles de diffusion email, les ressources et les formulaires dans Experience Manager.
+Découvrez comment connecter l’Adobe [!DNL Campaign] à Adobe Experience Manager pour gérer les modèles de diffusion d’emails, les ressources et les formulaires dans Experience Manager.
 
 La vidéo suivante explique ce que vous apprenez.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
 
-## Configurer [!DNL Campaign] pour l’intégration du Experience Manager
+## Configuration de [!DNL Campaign] pour l’intégration Experience Manager
 
 Découvrez comment configurer l’intégration entre Experience Manager et [!DNL Campaign], y compris les paramètres importants à rechercher et les &quot;pièges&quot; potentiels à éviter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
 
-## Approbation et publication d’une page de Experience Manager sur [!DNL Campaign]
+## Approuver et publier une page Experience Manager sur [!DNL Campaign]
 
 Découvrez comment créer une newsletter dans Experience Manager et comment l’approuver et la publier sur [!DNL Campaign].
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
-## Synchronisez et envoyez une diffusion par courrier électronique Experience Manager dans [!DNL Campaign]
+## Synchroniser et envoyer une diffusion email Experience Manager dans [!DNL Campaign]
 
 Découvrez comment tester et envoyer une newsletter qui a été créée en Experience Manager, dans [!DNL Campaign].
 

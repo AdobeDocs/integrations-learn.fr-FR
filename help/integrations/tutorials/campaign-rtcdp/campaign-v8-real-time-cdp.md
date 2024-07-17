@@ -1,6 +1,6 @@
 ---
-title: Intégrer [!DNL Campaign] Tutoriel v8 avec Real-Time CDP
-description: Découvrez comment intégrer [!DNL Campaign] v8 avec Real-Time CDP.
+title: Tutoriel Intégration de [!DNL Campaign] v8 à Real-Time CDP
+description: Découvrez comment intégrer  [!DNL Campaign] v8 à Real-Time CDP.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -20,16 +20,16 @@ ht-degree: 1%
 
 ---
 
-# Intégrer [!DNL Campaign] v8 avec Real-Time CDP
+# Intégration de [!DNL Campaign] v8 à Real-Time CDP
 
-## Connexion [!DNL Campaign] vers l’expérience [!DNL Platform] comme destination
+## Connecter [!DNL Campaign] à Experience [!DNL Platform] en tant que destination
 
-Découvrez comment activer une expérience d’Adobe [!DNL Platform] vers une destination à l’aide du type de connexion Amazon S3.
+Découvrez comment activer un segment d’expérience d’Adobe [!DNL Platform] vers une destination à l’aide du type de connexion Amazon S3.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
 
-## Importation des données de destinataires à partir d’Experience [!DNL Platform] et envoyer un email
+## Importer les données de destinataires à partir d’Experience [!DNL Platform] et envoyer un email
 
-Découvrez comment configurer un compte externe dans Adobe [!DNL Campaign] pour importer les données de destinataires à partir d’Adobe Experience [!DNL Platform] to [!DNL Campaign]. Comprendre comment créer un workflow pour charger et cibler les destinataires reçus de l&#39;expérience [!DNL Platform].
+Découvrez comment configurer un compte externe dans l’Adobe [!DNL Campaign] pour importer les données de destinataires de l’expérience d’Adobe [!DNL Platform] vers [!DNL Campaign]. Découvrez comment créer un workflow pour charger et cibler les destinataires reçus de l’expérience [!DNL Platform].
 
 >[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
