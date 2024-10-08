@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: Entrée GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 3beec04de562b317561163d5570874593f7f1a7f
+source-git-commit: e9a35153024bdf107dcc3f189c3e6d39d43a5924
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td> <H3>Devenez un leader de l'IA générique.</H3><p> Devenez un leader de l'IA générique. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Enregistrer</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Connexion</span></a></td>
+  <td> <strong>Devenez un leader d’IA générique.</strong><p> Devenez un leader de l'IA générique. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Enregistrer</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Connexion</span></a></td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <h3> Principal Generative AI. Transformez vos workflows.</h3>
+    <strong> Principal de l’IA générique. Transformez vos workflows.</strong>
   </td>
  </tr>
  <tr style= "border: 0;">
@@ -37,7 +37,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td><img src="./assets/medium.png"></td>
-  <td align="center"> <H3>Compétences en IA générative à tout moment.</h3><p> Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Explorer maintenant</span></a></td>
+  <td align="center"> <strong style= "font-size: 2em">Compétences en IA générique à tout moment.</strong><p> Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Explorer maintenant</span></a></td>
  </tr>
 </table>
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <H3>Prompter a été facile.</h3><p> Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie.</td>
+  <td align="center"> <strong>Promptage simplifié.</strong><p> Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -53,7 +53,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>Ventilation de l’IA générée pour le marketing.</H3><p> Devenez un leader de l'IA générique. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Enregistrer</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Connexion</span></a><td>
+  <td> <strong>Ventilation de l’IA générique pour le marketing.</strong><p> Devenez un leader de l'IA générique. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Enregistrer</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Connexion</span></a><td>
  </tr>
 </table>
 
@@ -75,7 +75,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>Mise en pratique de vos connaissances</H3><p> Devenez un leader de l'IA générique. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Y accéder</span></a><td>
+  <td> <strong>Mettez vos leçons en pratique</strong><p> Devenez un leader de l'IA générique. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Y accéder</span></a><td>
  </tr>
 </table>
 
