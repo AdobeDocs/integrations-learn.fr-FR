@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: Entrée GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 055180c634e028a208d1def883288441e76f87c3
+source-git-commit: e8ddb1ec28875a605cbbfe777313ea5f0f923949
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,6 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td><img src="./assets/medium.png"></td>
-  <td>**Texte aligné à droite** Bacon ipsum dauor amet tritip buffalo kevin landjaeger beef longe de porc, longe de donier à la brisure. Saucisse de cochon de bisons, longe-longe de jambon, filet à couteaux tirés. Jerky kevin landjaeger prosciutto, cupim capicola boudin. Arrondi rond kevin corned beef chuck ball tip, épaule short ribs pork belly shankle kielbasa dinkey tail pork meatloaf porc chop.</td>
+  <td> <strong>Texte aligné à droite</strong><p> Bacon ipsum dolor amet tritip buffalo kevin landjaeger libs de boeuf filet de porc, faux-filet de donker à la poitrine. Saucisse de cochon de bisons, longe-longe de jambon, filet à couteaux tirés. Jerky kevin landjaeger prosciutto, cupim capicola boudin. Arrondi rond kevin corned beef chuck ball tip, épaule short ribs pork belly shankle kielbasa dinkey tail pork meatloaf porc chop.<p><a href="https://adobeevents.adobeconnect.com/ec77sm8a2tt2/event/registration.html?campaign-id=ExL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Enregistrer</span></a></td>
  </tr>
 </table>
