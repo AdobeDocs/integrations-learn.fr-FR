@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: Entrée GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 2%
@@ -22,12 +22,7 @@ ht-degree: 2%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> Principal de l’IA générique. Transformez vos workflows.</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    Découvrez les compétences de base pour utiliser l’IA générative dans les workflows marketing. N'importe où. Pour Gratuit.
+    <strong style= "font-size: 2em"> Principal de l’IA générique. Transformez vos workflows.</strong><p>Découvrez les compétences de base pour utiliser l’IA générative dans les workflows marketing. N'importe où. Pour Gratuit.
   </td>
  </tr>
 </table>
