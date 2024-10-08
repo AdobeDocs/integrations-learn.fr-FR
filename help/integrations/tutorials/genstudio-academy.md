@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: Entrée GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: e55be0b347a77cca64cc466ea9188f30ab5f7067
+source-git-commit: 6270ed2ccb04287ff7da3a26e70d154c49ab65a2
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '202'
 ht-degree: 3%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 3%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em">Promptage simplifié.</strong><p> Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie.</td>
+  <td align="center"> <strong style= "font-size: 2em"> FOO Invite simplifiée.</strong><p> Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie. Principal les compétences en IA pour transformer vos workflows et guider votre industrie.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
