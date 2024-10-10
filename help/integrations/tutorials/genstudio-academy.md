@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: Entrée GenStudio Academy
 index: false
 hidefromtoc: true
-source-git-commit: 0bc7183ad172cc640dc45281bab3504f500cb871
+source-git-commit: 7a3346e4808f5e748f8272d537646370bf7b6fea
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '202'
 ht-degree: 1%
 
 ---
@@ -46,13 +46,13 @@ ht-degree: 1%
 </table>
 
 
-<table align="center">
+<table>
  <tr style= "border: 0;colspan: 3;">
   <td colspan="3"> <strong style= "font-size: 2em;">Bientôt disponible</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 3;"> 
-   <td align="Left">
-      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+   <td align="Center">
+      <img src="./assets/tips-and-tricks.png">
       <div>
       <strong>Conseils et astuces </strong>
       </div>
@@ -60,8 +60,17 @@ ht-degree: 1%
       Conseils et astuces pour utiliser GenStudio for Performance Marketing de la manière la plus efficace possible.
       </p>
    </td>
-   <td align="Right">
-      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+   <td align="Center">
+      <img src="./assets/social-learning.png">
+      <div>
+      <strong>Apprentissage social</strong>
+      </div>
+      <p>
+      Apprenez de vos pairs et connaissances
+      </p>
+   </td>
+   <td align="Center">
+      <img src="./assets/expert-courses.png">
       <div>
       <strong>Cours d'experts</strong>
       </div>
