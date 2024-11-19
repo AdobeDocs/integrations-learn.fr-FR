@@ -2,10 +2,10 @@
 title: Intégrations d’applications pour la chaîne d’approvisionnement de contenu
 description: Planifiez, créez, personnalisez et publiez du contenu.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Répondre aux attentes des clients en temps réel pour des expériences personna
   </thead>
   <tbody>
 <tr>
-  <td><strong>Création de documents marketing à l’aide de ressources de marque</strong><br/></td>
+  <td rowspan="2"><strong>Création de documents marketing à l’aide de ressources de marque</strong><br/></td>
   <td>Créez et supervoyez du contenu et des modèles de marketing par e-mail à l'aide de l'AEM et de l'Adobe [!DNL Campaign].</td>
   <td>
     <ul>
@@ -34,6 +34,16 @@ Répondre aux attentes des clients en temps réel pour des expériences personna
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] et AEM</a></td>
+</tr>
+<tr>
+  <td>Créez des expériences marketing personnalisées et de marque.</td>
+  <td>
+    <ul>
+      <li>Envoyez des emails marketing créés dans GenStudio for Performance Marketing avec des images de marque provenant d’AEM Assets.</li>
+      <li>Créez des métadonnées de marque dans GenStudio for Performance Marketing à l’aide d’images de marque provenant d’AEM Assets.</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing et AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>Gestion de la création de ressources</strong><br/></td>
