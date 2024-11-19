@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: 9624caa4307c31f94c5439b99ac48278dd9a67da
+source-git-commit: ba8d90c256356ccf806484a5b791d5c4ad54ab9f
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 2%
@@ -23,9 +23,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-
 Déverrouillez la puissance d’Adobe GenStudio et AEM Assets as a Cloud Service pour transformer vos workflows de marketing des performances. Grâce à une intégration transparente, accédez aux ressources approuvées par la marque à partir d’un référentiel centralisé afin de créer du contenu cohérent et de haute qualité pour chaque campagne et canal. Découvrez comment ces outils rationalisent votre chaîne d’approvisionnement de contenu et augmentent votre impact marketing.
-
 
 ## Présentation
 
