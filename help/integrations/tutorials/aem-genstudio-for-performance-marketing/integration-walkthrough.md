@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: 2723d31f7aca0049e3227318048c0fc2c5923856
+source-git-commit: 7d07f37f6267eda106f895cb367d42669f0d5c65
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
