@@ -12,7 +12,7 @@ duration: 295
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16483
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: 49eeb3e1bfc5a22d8a8e57795f23539e131f98bc
+source-git-commit: 6b108fc5a24d8949417a2ef14fa0d5a376f0b1aa
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Révision et approbation légères dans Adobe GenStudio
 
-[Retour à la présentation de l’intégration](../../overview.md)
+[Retour à la présentation de l’intégration](./overview.md)
 
 Découvrez comment charger, réviser et approuver des ressources dans AEM Assets as a Cloud Service afin de rationaliser votre workflow de contenu. Une fois approuvées, ces ressources s’intègrent facilement à GenStudio for Performance Marketing, ce qui facilite l’accès aux ressources approuvées par la marque pour vos campagnes.
 
