@@ -11,17 +11,20 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
+index: true
+hidefromtoc: true
+badgeIntegration: label="AEM Asset et GenStudio for Performance Marketing" type="positive"
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: c3d3d3076d495d01701dae09088ea0278c345299
+source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 0%
+source-wordcount: '264'
+ht-degree: 6%
 
 ---
 
-# Configurer
+# Configuration d’AEM Asset et GenStudio for Performance Marketing
 
-[Retour à la présentation de l’intégration](./overview.md)
+[Retour à la présentation d’AEM Asset and GenStudio for Performance Marketing](./overview.md)
 
 Pour commencer à utiliser Adobe GenStudio avec AEM Assets as a Cloud Service et GenStudio for Performance Marketing, les deux applications doivent être correctement configurées. Le processus de configuration implique plusieurs étapes à effectuer avant de pouvoir intégrer complètement Adobe GenStudio à AEM Assets et GenStudio for Performance Marketing.
 
@@ -101,7 +104,7 @@ Ces tâches nécessiteront une collaboration avec les administrateurs disposant 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="Configuration de GenStudio for Performance Marketing">Configuration de GenStudio for Performance Marketing</a>
                     </p>
-                    <p class="is-size-6">Découvrez comment commencer à utiliser GenStudio for Performance Marketing pour générer du contenu marketing aligné sur la marque.</p>
+                    <p class="is-size-6">Découvrez comment commencer avec GenStudio for Performance Marketing afin de générer un nouveau contenu marketing aligné sur votre marque.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
