@@ -1,5 +1,5 @@
 ---
-title: Configuration d’Adobe GenStudio à l’aide d’AEM Assets et de GenStudio for Performance Marketing
+title: Configuration d’Adobe GenStudio à l’aide de GenStudio for Performance Marketing et d’AEM Assets
 description: Découvrez comment configurer l’intégration entre AEM Assets et GenStudio for Performance Marketing.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
@@ -11,29 +11,34 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-index: true
-hidefromtoc: true
-badgeIntegration: label="AEM Asset et GenStudio for Performance Marketing" type="positive"
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: 4400dfd33821ef15e134f272fa9834b6302b61b1
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 6%
+source-wordcount: '265'
+ht-degree: 7%
 
 ---
 
-# Configuration d’AEM Asset et GenStudio for Performance Marketing
+# Configuration de GenStudio for Performance Marketing et AEM Assets
 
-[Retour à la présentation d’AEM Asset and GenStudio for Performance Marketing](./overview.md)
+[Retour à la présentation de l’intégration](./overview.md)
 
-Pour commencer à utiliser Adobe GenStudio avec AEM Assets as a Cloud Service et GenStudio for Performance Marketing, les deux applications doivent être correctement configurées. Le processus de configuration implique plusieurs étapes à effectuer avant de pouvoir intégrer complètement Adobe GenStudio à AEM Assets et GenStudio for Performance Marketing.
+Pour commencer à utiliser Adobe GenStudio avec AEM Assets as a Cloud Service et GenStudio for Performance Marketing, assurez-vous que les produits nécessaires sont configurés, activés et configurés. Plus précisément, vous devez accéder à :
 
-Ces tâches nécessiteront une collaboration avec les administrateurs disposant des autorisations appropriées pour gérer les deux systèmes.
+* as a Cloud Service AEM Assets
+* AEM Assets Content Hub
+* GenStudio for Performance Marketing
+
+Aucune configuration supplémentaire n’est nécessaire pour intégrer ces produits, hormis la garantie qu’ils sont disponibles, configurés et accessibles pour votre utilisateur.
+
+## Configuration de guides
+
+Si ces produits Adobe ne sont pas encore configurés et activés, consultez les guides suivants pour obtenir les étapes de configuration détaillées :
 
 <!-- CARDS 
 
 * https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
-   {title=Set up AEM Assets with Assets view}
+   {title=Set up AEM Assets}
 * https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up
    {title=Enable AEM Assets Content Hub}
 * https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
@@ -43,12 +48,12 @@ Ces tâches nécessiteront une collaboration avec les administrateurs disposant 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up AEM Assets with Assets view">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up AEM Assets">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="Configuration d’AEM Assets avec la vue Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="Configuration d’AEM Assets avec la vue Assets"
+                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="Configuration d’AEM Assets" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="Configuration d’AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,9 +61,9 @@ Ces tâches nécessiteront une collaboration avec les administrateurs disposant 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Configuration d’AEM Assets avec la vue Assets">Configuration d’AEM Assets avec la vue Assets</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Configuration d’AEM Assets">Configuration d’AEM Assets</a>
                     </p>
-                    <p class="is-size-6">Découvrez comment utiliser AEM Assets as a Cloud Service dans la vue Assets avec cette collection de listes de lecture vidéo conçue pour améliorer votre expertise produit.</p>
+                    <p class="is-size-6">Découvrez comment naviguer dans AEM Assets as a Cloud Service dans la vue Assets avec cette sélection organisée de listes de lecture vidéo afin d’améliorer vos connaissances sur les produits.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
@@ -71,7 +76,7 @@ Ces tâches nécessiteront une collaboration avec les administrateurs disposant 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up" title="Activation d’AEM Assets Content Hub" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1732112018062" alt="Activation d’AEM Assets Content Hub"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1733417775065" alt="Activation d’AEM Assets Content Hub"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
