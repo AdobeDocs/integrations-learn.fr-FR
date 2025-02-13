@@ -1,6 +1,6 @@
 ---
 title: Présentation de l’intégration d’AEM Assets et de GenStudio for Performance Marketing
-description: Découvrez les principes de base de l’utilisation de l’intégration d’AEM Assets et de GenStudio for Performance Marketing ; chargement de ressources vers AEM Assets, approbation des ressources dans AEM Assets et utilisation des ressources approuvées dans GenStudio for Performance Marketing.
+description: Découvrez comment utiliser AEM Assets et GenStudio for Performance Marketing, du chargement et de l’approbation de ressources dans AEM à l’utilisation de ressources dans GenStudio for Performance Marketing.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,17 +15,17 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset et GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
-source-git-commit: 7764aca295510187e45b448d39f23514915a6517
+source-git-commit: 1eb538915a3c53ce478eac8d5462648b1477a3a4
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Présentation d’AEM Asset et GenStudio for Performance Marketing
+# Présentation d’AEM Assets et de GenStudio for Performance Marketing
 
-[Retour à la présentation d’AEM Asset and GenStudio for Performance Marketing](./overview.md)
+[‹ Retour à la présentation d’AEM Assets et de GenStudio for Performance Marketing](./overview.md)
 
-Découvrez les principes de base de l’utilisation de l’intégration d’AEM Assets as a Cloud Service et de GenStudio for Performance Marketing ; le chargement de ressources vers AEM Assets, l’approbation de ressources dans AEM Assets et l’utilisation de ressources approuvées dans GenStudio for Performance Marketing.
+Découvrez les principes de base de l’utilisation de l’intégration d’AEM Assets as a Cloud Service et de GenStudio for Performance Marketing ; du chargement de ressources vers AEM Assets, de l’approbation des ressources dans AEM Assets et de l’utilisation des ressources approuvées dans GenStudio for Performance Marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
