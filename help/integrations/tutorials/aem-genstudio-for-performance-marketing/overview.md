@@ -1,6 +1,6 @@
 ---
-title: Adobe GenStudio à l’aide de GenStudio for Performance Marketing et AEM Assets
-description: Cette vidéo décrit comment l’intégration d’AEM Assets à GenStudio for Performance Marketing permet aux équipes d’accéder à un référentiel centralisé de ressources approuvées par la marque, assurant ainsi la cohérence du contenu sur tous les canaux et campagnes.
+title: Utiliser Adobe GenStudio for Performance Marketing et AEM Assets
+description: Déverrouillez Adobe GenStudio pour rationaliser le marketing. Accédez aux ressources approuvées par la marque et créez du contenu cohérent et de haute qualité sur l’ensemble des canaux.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,25 +15,25 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset et GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: ad3d8d090434b1c1a2cbcf024223db9fb6bb9fef
+source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio à l’aide d’AEM Assets et GenStudio for Performance Marketing
+# Adobe GenStudio avec AEM Assets et GenStudio for Performance Marketing
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-Tirez parti de toute la puissance d’Adobe GenStudio et d’AEM Assets as a Cloud Service pour transformer vos workflows de marketing des performances. Grâce à une intégration transparente, accédez aux ressources approuvées par la marque à partir d’un référentiel centralisé afin de créer du contenu cohérent et de haute qualité pour chaque campagne et canal. Découvrez comment ces outils rationalisent votre chaîne d’approvisionnement de contenu et augmentent votre impact marketing.
+Tirez parti de la puissance d’Adobe GenStudio et d’AEM Assets as a Cloud Service pour transformer vos workflows de marketing des performances. Grâce à une intégration transparente, accédez aux ressources approuvées par la marque à partir d’un référentiel centralisé afin de créer du contenu cohérent et de haute qualité pour chaque campagne et canal. Découvrez comment ces outils rationalisent votre chaîne d’approvisionnement de contenu et augmentent votre impact marketing.
 
 ## Conditions préalables
 
 L’intégration entre AEM Assets et GenStudio for Performance Marketing nécessite une compréhension fondamentale des éléments suivants :
 
-* Adobe GenStudio for Performance Marketing
-* AEM Assets as a Cloud Service
+* [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)
+* [AEM Assets as a Cloud Service](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/overview)
 
 Avant d’examiner plus en détail la configuration et les workflows, assurez-vous de disposer de l’accès nécessaire à AEM Assets et GenStudio for Performance Marketing.
 
@@ -105,7 +105,7 @@ Explorez deux présentations complètes conçues pour les utilisateurs qui dispo
 
 ## Intégration en action
 
-Explorez des cas d’utilisation pratiques conçus pour les utilisateurs ayant une compréhension fondamentale d’AEM Assets et de GenStudio for Performance Marketing. Ces exemples montrent comment cette intégration améliore vos workflows, en simplifiant les processus d’approbation des ressources, en créant et en utilisant des variantes de contenu personnalisées et en montrant comment AEM Assets as a Cloud Service et GenStudio for Performance Marketing fonctionnent ensemble pour alimenter des campagnes marketing performantes et cohérentes.
+Explorez des cas d’utilisation pratiques conçus pour les utilisateurs ayant une compréhension fondamentale d’AEM Assets et de GenStudio for Performance Marketing. Ces exemples montrent comment cette intégration améliore vos workflows, en simplifiant les processus d’approbation des ressources, en créant et en utilisant des variantes de contenu personnalisées et en montrant comment AEM Assets as a Cloud Service et GenStudio for Performance Marketing fonctionnent ensemble pour alimenter des campagnes marketing de performances efficaces et cohérentes.
 
 <!-- CARDS 
 
@@ -119,8 +119,8 @@ Explorez des cas d’utilisation pratiques conçus pour les utilisateurs ayant u
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Révision et approbation légères dans l’Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1733416518715" alt="Révision et approbation légères dans l’Adobe GenStudio"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Révision et approbation légères dans Adobe GenStudio" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1733416518715" alt="Révision et approbation légères dans Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,7 +128,7 @@ Explorez des cas d’utilisation pratiques conçus pour les utilisateurs ayant u
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Révision et approbation légères dans l’Adobe GenStudio">Révision et approbation légères en Adobe GenStudio </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Révision et approbation légères dans Adobe GenStudio">Révision et approbation légères dans Adobe GenStudio</a>
                     </p>
                     <p class="is-size-6">Explorez le cas d’utilisation de chargement, de révision et d’approbation des ressources dans AEM Assets pour les rendre disponibles pour une utilisation dans GenStudio for Performance Marketing.</p>
                 </div>
@@ -142,8 +142,8 @@ Explorez des cas d’utilisation pratiques conçus pour les utilisateurs ayant u
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Créer des variantes avec Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1733416518722" alt="Créer des variantes avec Adobe GenStudio"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Création de variantes avec Adobe GenStudio" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1733416518722" alt="Création de variantes avec Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -151,7 +151,7 @@ Explorez des cas d’utilisation pratiques conçus pour les utilisateurs ayant u
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="Créer des variantes avec Adobe GenStudio">Création de variantes avec Adobe GenStudio </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="Création de variantes avec Adobe GenStudio">Création de variantes avec Adobe GenStudio</a>
                     </p>
                     <p class="is-size-6">Explorez le cas d’utilisation d’AEM Assets et d’Adobe Express pour créer des variations de ressources à utiliser dans les e-mails et les méta-annonces utilisées pour promouvoir la même expérience marketing.</p>
                 </div>
