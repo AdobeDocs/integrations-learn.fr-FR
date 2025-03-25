@@ -1,8 +1,8 @@
 ---
 title: Révision et approbation légères dans Adobe GenStudio
 description: Découvrez comment charger, réviser et approuver des ressources dans AEM Assets pour les rendre disponibles dans GenStudio for Performance Marketing.
-solution: Experience Manager, GenStudio for Performance Marketing
-version: Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service, GenStudio for Performance Marketing
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: User
@@ -15,7 +15,7 @@ index: true
 hidefromtoc: false
 badgeIntegration: label="AEM Asset et GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: 67814146c561a483a00dd82f7cf1116c114beaf6
+source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
