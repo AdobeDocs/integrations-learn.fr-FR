@@ -61,7 +61,7 @@ ht-degree: 22%
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
-   + [!DNL Platform]{#experience-platform} d’expérience
+   + [!DNL Platform] d’expérience{#experience-platform}
       + [Vue d’ensemble](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer {#journey-optimizer}
       + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
@@ -94,7 +94,7 @@ ht-degree: 22%
       + [[!DNL Analytics] et  [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] et [!DNL Analytics]{#campaign-analytics}
       + [Tutoriel sur l [!DNL Campaign] intégration de Standard à  [!DNL Analytics] à l’aide de Triggers](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
-   + [!DNL Campaign] et {#campaign-experience-manager} Experience Manager
+   + [!DNL Campaign] et Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 et Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] et Real-Time CDP {#campaign-real-time-cdp}
       + [[!DNL Campaign] v8 et Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
@@ -102,7 +102,7 @@ ht-degree: 22%
       + [Real-Time CDP et  [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP et  [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP et  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
-   + GenStudio for Performance Marketing et {#genstudio-for-performance-marketing-experience-manager} Experience Manager
+   + GenStudio for Performance Marketing et Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [Vue d’ensemble](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Configurer](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Présentation de l’intégration](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
