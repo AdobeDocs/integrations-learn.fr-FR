@@ -18,10 +18,10 @@ Ces tutoriels sur l’intégration des Experience Cloud décrivent certaines des
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="Par produit" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="Par produit" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=fr"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="Par solution commerciale" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="Par solution commerciale" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=fr"/></a>
    </td>  
 </tr>
 <tr>

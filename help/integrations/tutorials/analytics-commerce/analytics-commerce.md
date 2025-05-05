@@ -29,7 +29,7 @@ Ces instructions concernent les projets hébergés dans le cloud [!DNL Commerce]
 1. Extraction du code dans votre environnement local
 1. Utilisation du compositeur et du module d’installation
 1. Suivez les instructions individuelles ici et revenez une fois terminé pour terminer les étapes restantes.
-   [ Installez et configurez Experience [!DNL Platform] connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}
+   [ Installez et configurez Experience [!DNL Platform] connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html?lang=fr){target="_blank"}
 
 
 1. Validez le fichier compositeur.json et, si dans le cloud, les fichiers compositeur.lock
@@ -45,13 +45,13 @@ Pour ce faire, connectez-vous à la section admin de l&#39;Adobe [!DNL Commerce]
 
      ![ Connecteur [!DNL Platform] d’expérience](./assets/analytics-commerce/experience-platform-connector.png)
 
-Pour plus d’informations sur chaque phase et étape du processus d’intégration, suivez les instructions de la [présentation du connecteur Experience [!DNL Platform] ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. Le tutoriel sur le connecteur Experience [!DNL Platform] aborde en détail chaque section et répond à toutes les questions que vous pouvez vous poser. Utilisez ce tutoriel pour le reste des étapes de configuration rapide.
+Pour plus d’informations sur chaque phase et étape du processus d’intégration, suivez les instructions de la [présentation du connecteur Experience [!DNL Platform] ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=fr){target="_blank"}. Le tutoriel sur le connecteur Experience [!DNL Platform] aborde en détail chaque section et répond à toutes les questions que vous pouvez vous poser. Utilisez ce tutoriel pour le reste des étapes de configuration rapide.
 
 ## Configuration d’Experience Edge et de l’Adobe [!DNL Analytics]
 
 1. Vérifiez que votre organisation a (et que vous avez) accès à l&#39;Adobe [!DNL Analytics]. Pour le confirmer, rendez-vous sur la [page d’accueil de Adobe Experience Cloud](https://experience.adobe.com/) et cliquez sur le sélecteur d’applications (neuf points) dans la barre de navigation supérieure.
 
-1. Créez une suite de rapports dans l’Adobe [!DNL Analytics] ou identifiez l’identifiant de la suite de rapports dans laquelle vous allez transférer des données [!DNL Commerce]. Pour plus d’informations, regardez un tutoriel sur la [création d’une suite de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html). Vous aurez besoin de cet identifiant de suite de rapports à l’étape de flux de données ci-dessous.
+1. Créez une suite de rapports dans l’Adobe [!DNL Analytics] ou identifiez l’identifiant de la suite de rapports dans laquelle vous allez transférer des données [!DNL Commerce]. Pour plus d’informations, regardez un tutoriel sur la [création d’une suite de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr). Vous aurez besoin de cet identifiant de suite de rapports à l’étape de flux de données ci-dessous.
 
 1. Accédez à l’ [ interface  [!DNL Platform] d’Adobe](https://platform.adobe.com) si vous avez accès à l’expérience [!DNL Platform]. Si vous n’avez pas accès à cette interface, vous pouvez effectuer toutes les étapes nécessaires répertoriées ci-dessous dans l’ [!DNL Platform] [interface de collecte de données](https://experience.adobe.com/#/data-collection) de l’expérience d’Adobe.
 
@@ -87,9 +87,9 @@ Pour plus d’informations sur chaque phase et étape du processus d’intégrat
 
    Voici quelques ressources supplémentaires pour vous aider à travailler dans Analysis Workspace :
 
-   * [Vue d’ensemble d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
-   * [Création d’un projet Workspace à partir de zéro](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
-   * [Utilisation de tableaux, de visualisations et de panneaux dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
-   * [Cas d’utilisation de la visualisation](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
+   * [Vue d’ensemble d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html?lang=fr)
+   * [Création d’un projet Workspace à partir de zéro](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html?lang=fr)
+   * [Utilisation de tableaux, de visualisations et de panneaux dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=fr)
+   * [Cas d’utilisation de la visualisation](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=fr)
 
-   De plus, des cours gratuits sont disponibles sur Experience League. Voir [!DNL Analytics] cours disponibles [ICI](https://experienceleague.adobe.com/?lang=en&amp;Solution=Analytics#courses).
+   De plus, des cours gratuits sont disponibles sur Experience League. Voir [!DNL Analytics] cours disponibles [ICI](https://experienceleague.adobe.com/fr?lang=en&amp;Solution=Analytics#courses).

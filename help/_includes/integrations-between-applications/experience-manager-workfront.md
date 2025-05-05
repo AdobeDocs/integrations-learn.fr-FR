@@ -34,7 +34,7 @@ AEM et Workfront rationalisent la production de contenu, ce qui permet une impor
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront et AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=fr" target="_blank" rel="noreferrer">Workfront et AEM Assets Essentials</a></td>
             <td>Connecteur natif</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +50,7 @@ AEM et Workfront rationalisent la production de contenu, ce qui permet une impor
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront et AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=fr" target="_blank" rel="noreferrer">Workfront et AEM Assets</a></td>
             <td>Connecteur amélioré</td>
             <td>
                 <ul style="margin-top: 0;">

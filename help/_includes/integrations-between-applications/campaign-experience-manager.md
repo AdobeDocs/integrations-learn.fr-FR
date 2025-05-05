@@ -47,7 +47,7 @@ Les principaux avantages de l’intégration de l’Adobe [!DNL Campaign] et de 
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] Standard avec AEM Forms</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=fr" target="_blank" rel="noreferrer">[!DNL Campaign] Standard avec AEM Forms</a></td>
             <td>Jetons d’accès Adobe IMS</td>
             <td>
                 <ul style="margin-top: 0;">

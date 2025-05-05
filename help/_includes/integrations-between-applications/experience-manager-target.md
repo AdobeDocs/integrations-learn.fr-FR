@@ -35,7 +35,7 @@ L&#39;utilisation conjointe de Adobe Experience Manager et d&#39;Adobe [!DNL Tar
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">as a Cloud Service AEM sans affichage et [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=fr" target="_blank" rel="noreferrer">as a Cloud Service AEM sans affichage et [!DNL Target]</a></td>
             <td>Extension des balises SDK Web Experience [!DNL Platform] ou alloy.js</td>
             <td>
               <ul style="margin-top: 0;">

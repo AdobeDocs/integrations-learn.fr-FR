@@ -33,7 +33,7 @@ L&#39;intégration de l&#39;Adobe [!DNL Analytics] avec l&#39;Adobe [!DNL Campai
      <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standard avec [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Compte externe [!DNL Campaign] lié à l'Adobe [!DNL Analytics] et configuration d'administrateur dans [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=fr" target="_blank" rel="noreferrer">Compte externe [!DNL Campaign] lié à l'Adobe [!DNL Analytics] et configuration d'administrateur dans [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Lorsque vous souhaitez tracker le succès de vos diffusions email de [!DNL Campaign] directement dans l'Adobe [!DNL Analytics].</li>

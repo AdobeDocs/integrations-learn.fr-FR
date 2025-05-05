@@ -32,7 +32,7 @@ Les principaux avantages de l’intégration d’Adobe Workfront et de Adobe Cre
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">Creative Cloud et Workfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=fr" target="_blank" rel="noreferrer">Creative Cloud et Workfront</a></td>
             <td>Connecteur natif</td>
             <td>
                 <ul style="margin-top: 0;">

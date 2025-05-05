@@ -57,7 +57,7 @@ Dans l’ensemble, cette intégration rassemble des données et des informations
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager de l’envoi de données à [!DNL Analytics]</a>
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=fr" target="_blank" rel="noreferrer">Audience Manager de l’envoi de données à [!DNL Analytics]</a>
             </td>
             <td>Adobe l’extension de balises [!DNL Analytics] ou AppMeasurement.js avec le transfert côté serveur activé</td>
             <td>

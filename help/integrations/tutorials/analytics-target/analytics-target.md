@@ -29,7 +29,7 @@ Les vidéos ci-dessous montrent la valeur de l’utilisation de cette intégrati
 
 >[!NOTE]
 >
->Ces vidéos montrent l’implémentation et la validation de [!DNL Target] at.js et [!DNL Analytics] appMeasurement.js. Reportez-vous à la [documentation](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) pour connaître les versions de bibliothèque requises dans les deux outils.
+>Ces vidéos montrent l’implémentation et la validation de [!DNL Target] at.js et [!DNL Analytics] appMeasurement.js. Reportez-vous à la [documentation](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=fr) pour connaître les versions de bibliothèque requises dans les deux outils.
 
 ### Configuration d’A4T ([!DNL Analytics] pour [!DNL Target])
 
@@ -73,7 +73,7 @@ Nous proposons également deux tutoriels détaillés qui vous montrent les déta
 
 Une activité d’affectation automatique identifie un gagnant parmi plusieurs expériences et réaffecte automatiquement du trafic supplémentaire vers le gagnant pendant que le test se poursuit et apprend. L’intégration [!DNL Analytics] pour [!DNL Target] (A4T) pour l’affectation automatique vous permet de voir vos données de rapport dans l’Adobe [!DNL Analytics], et vous pouvez même optimiser pour les événements personnalisés ou les mesures définies dans [!DNL Analytics].
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=fr" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Configuration de rapports A4T pour les activités d’affectation automatique</span>
 </a>
 
@@ -83,6 +83,6 @@ L’intégration [!DNL Analytics] pour [!DNL Target] (A4T) pour les activités A
 
 Bien que de riches fonctionnalités d&#39;analyse soient disponibles dans Adobe [!DNL Analytics] Analysis Workspace, quelques modifications du panneau par défaut [!DNL Analytics] pour [!DNL Target] sont nécessaires pour interpréter correctement les activités Auto-[!DNL Target], en raison des différences entre les activités d&#39;expérimentation (test A/B manuel et affectation automatique) et les activités de personnalisation (auto-[!DNL Target]).
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=fr" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Configuration de rapports A4T pour les activités Auto-[!DNL Target]</span>
 </a>

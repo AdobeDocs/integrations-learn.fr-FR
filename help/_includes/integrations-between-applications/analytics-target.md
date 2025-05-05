@@ -52,7 +52,7 @@ Les principaux avantages de l’intégration de l’Adobe [!DNL Analytics] et de
         <tr>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Services principaux Experience Cloud</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=fr" target="_blank" rel="noreferrer">Services principaux Experience Cloud</a></li>
                 </ul>
             </td>
             <td>
