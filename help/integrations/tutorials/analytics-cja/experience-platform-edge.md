@@ -41,7 +41,7 @@ ht-degree: 3%
                 </ul></li>
             <li>API du serveur Edge Network :</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Tutoriel</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=fr" _target="_blank" rel="noopener noreferrer">Tutoriel</a></li>
                 </ul>
        </ul>
     <li><i>(Facultatif)</i>. Si vous utilisez plusieurs jeux de données, assemblez les ID de personne à <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=fr" _target="_blank" rel="noopener noreferrer">pour générer un jeu de données combiné </a>. Si vous utilisez un seul jeu de données [!DNL Analytics] ou si un identifiant commun existe pour tous les jeux de données que vous prévoyez d’utiliser dans le Parcours client [!DNL Analytics], ignorez cette étape.</li>
