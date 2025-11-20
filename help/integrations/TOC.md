@@ -110,10 +110,10 @@ ht-degree: 26%
          + [Révision et approbation dans Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Création de variantes avec Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager et Target{#experience-manager-target}
-      + [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [Démonstration en direct](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/personalization/live-demo)
-      + [Configurer](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Vue d’ensemble](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Démonstration en direct](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [Configurer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Cas d’utilisation{#use-cases}
-         + [Expérimentation (Tests A/B)](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Expérimentation (Tests A/B)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [Ciblage comportemental](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [Personalization utilisateur connu](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [Personalization utilisateur connu](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
