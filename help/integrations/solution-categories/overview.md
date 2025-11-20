@@ -18,21 +18,21 @@ Gardez à l’esprit qu’il existe de nombreuses façons de configurer les appl
 <table>
 <tr>
     <td>
-      <a  href="./b2b.md"><img alt="Marketing B2b" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
+      <a  href="./b2b.md"><img alt="Marketing B2b" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png?lang=fr"/></a>
       <div><strong><a href="./b2b.md">Marketing B2B</a></strong></div>
       <p>
         Partenariat en automatisation du marketing et des ventes
       </p>
     </td>
    <td>
-      <a  href="./commerce.md"><img alt="commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <a  href="./commerce.md"><img alt="commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png?lang=fr"/></a>
       <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Commerce numérique B2B et B2C
       </p>
    </td>    
    <td>
-      <a  href="./content-management.md"><img alt="Gestion de contenu" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
+      <a  href="./content-management.md"><img alt="Gestion de contenu" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png?lang=fr"/></a>
       <div><strong><a href="./content-management.md">Gestion de contenu</a></strong></div>
       <p>
         Gestion de contenu et de ressources
@@ -41,21 +41,21 @@ Gardez à l’esprit qu’il existe de nombreuses façons de configurer les appl
 </tr>
 <tr>
    <td>
-      <a  href="./content-supply-chain.md"><img alt="Supply chain de contenu" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
+      <a  href="./content-supply-chain.md"><img alt="Supply chain de contenu" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png?lang=fr"/></a>
       <div><strong><a href="./content-supply-chain.md">supply chain de contenu</a></strong></div>
       <p>
         Accélérer la création et la diffusion de contenu
       </p> 
     </td>
    <td>
-      <a  href="./customer-journeys.md"><img alt="Parcours clients" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
+      <a  href="./customer-journeys.md"><img alt="Parcours clients" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png?lang=fr"/></a>
       <div><strong><a href="./customer-journeys.md">parcours client</a></strong></div>
       <p>
         Orchestration et diffusion omnicanal
       </p> 
     </td>
    <td>
-      <a  href="./data-insights.md"><img alt="Informations sur les données et activation" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
+      <a  href="./data-insights.md"><img alt="Informations sur les données et activation" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png?lang=fr"/></a>
       <div><strong><a href="./data-insights.md"> des informations sur les données et activation</a></strong></div>
       <p>
         [!DNL Analytics] et gestion des audiences
@@ -64,7 +64,7 @@ Gardez à l’esprit qu’il existe de nombreuses façons de configurer les appl
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personalization à grande échelle" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <a  href="./personalization.md"><img alt="Personalization à grande échelle" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png?lang=fr"/></a>
       <div><strong><a href="./personalization.md">Personalization comme échelle</a></strong></div>
       <p>
         Comment rendre chaque connexion personnelle
