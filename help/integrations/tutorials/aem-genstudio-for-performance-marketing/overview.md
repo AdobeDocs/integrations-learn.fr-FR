@@ -24,7 +24,7 @@ ht-degree: 3%
 
 # Adobe GenStudio avec AEM Assets et GenStudio for Performance Marketing
 
->[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439268/?captions=fre_fr&learn=on)
 
 Tirez parti de la puissance d’Adobe GenStudio et d’AEM Assets as a Cloud Service pour transformer vos workflows de marketing des performances. Grâce à une intégration transparente, accédez aux ressources approuvées par la marque à partir d’un référentiel centralisé afin de créer du contenu cohérent et de haute qualité pour chaque campagne et canal. Découvrez comment ces outils rationalisent votre supply chain de contenu et améliorent votre impact marketing.
 
@@ -83,7 +83,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="Prise en main de GenStudio for Performance Marketing et AEM Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="Prise en main de GenStudio for Performance Marketing et AEM Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439279/?captions=fre_fr&format=jpeg&nocache=1739560516243" alt="Prise en main de GenStudio for Performance Marketing et AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,7 +122,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Révision et approbation légères dans Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Révision et approbation légères dans Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439290/?captions=fre_fr&format=jpeg&nocache=1739560516635" alt="Révision et approbation légères dans Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +145,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Création de variantes avec Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="Création de variantes avec Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439301/?captions=fre_fr&format=jpeg&nocache=1739560516573" alt="Création de variantes avec Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

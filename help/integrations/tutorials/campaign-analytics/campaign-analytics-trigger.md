@@ -32,22 +32,22 @@ Découvrez comment effectuer la collecte de données Adobe Experience [!DNL Plat
 >
 > Launch est désormais la fonctionnalité Balises d’Adobe Experience [!DNL Platform]. Il se trouve sous **Collections de données Adobe Experience [!DNL Platform]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454018?captions=fre_fr&quality=12&learn=on)
 
 ## Création d&#39;un déclencheur dans Experience Cloud
 
 Découvrez comment configurer des déclencheurs dans Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446140?captions=fre_fr&quality=12&learn=on)
 
 ## Création d’un déclencheur dans [!DNL Campaign] Standard
 
 Découvrez comment créer un événement déclencheur dans [!DNL Campaign] Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446411?captions=fre_fr&quality=12&learn=on)
 
 ## Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel
 
 Découvrez comment configurer des messages transactionnels à l’aide de données d’événement en temps réel issues de déclencheurs.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450204?captions=fre_fr&quality=12&learn=on)
