@@ -1,56 +1,56 @@
 ---
-title: Intégrer Real-Time CDP et  [!DNL Target]  avec le SDK Mobile et  [!DNL Target] destination
-description: Découvrez comment intégrer Real-Time CDP et  [!DNL Target]  avec le SDK Mobile et  [!DNL Target] destination.
+title: Intégration de Real-Time CDP et  [!DNL Target]  Mobile SDK et  [!DNL Target]  destination
+description: Découvrez comment intégrer Real-Time CDP et  [!DNL Target]  à Mobile SDK et  [!DNL Target]  destination.
 solution: Target, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 index: true
 hidefromtoc: true
 last-substantial-update: 2023-07-25T00:00:00Z
 badgeIntegration: label="Intégration" type="positive"
 exl-id: 2089ca9f-3b9d-4d35-9c86-1ea1c53031b1
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Intégrer Real-Time CDP et [!DNL Target] avec le SDK Mobile et la destination [!DNL Target]
+# Intégrer Real-Time CDP et [!DNL Target] à Mobile SDK et à [!DNL Target] destination
 
 >[!IMPORTANT]
 >
->Lors de l’intégration avec le SDK Mobile, [!DNL Target] doit être implémenté à l’aide de l’extension Adobe Journey Optimizer - Decisioning.
+>Lors de l’intégration à Mobile SDK, [!DNL Target] doit être implémenté à l’aide de l’extension Adobe Journey Optimizer - Decisioning.
 
 ## Personnalisation de l’accès suivant avec Adobe Real-Time CDP et Adobe [!DNL Target]
 
-Obtenez une présentation et une démonstration de l’intégration.
+Obtenez un aperçu et une démonstration de l’intégration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
 
 
-## Configuration de la destination [!DNL Target] d’Adobe dans les données client en temps réel [!DNL Platform]
+## Configurer la destination Adobe [!DNL Target] dans Real-Time Customer Data [!DNL Platform]
 
-Découvrez comment configurer la destination [!DNL Target] de l’Adobe dans les données client en temps réel [!DNL Platform].
+Découvrez comment configurer la destination Adobe [!DNL Target] dans Real-Time Customer Data [!DNL Platform].
 
->[!VIDEO](https://video.tv.adobe.com/v/3449795/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
 
-## Activation des segments et des attributs de profil pour l’Adobe [!DNL Target]
+## Activer les segments et les attributs de profil vers Adobe [!DNL Target]
 
-Découvrez comment activer les segments et les attributs de profil depuis les données client en temps réel d’Adobe [!DNL Platform] vers l’Adobe [!DNL Target].
+Découvrez comment activer des segments et des attributs de profil de la [!DNL Platform] de données clients en temps réel d’Adobe vers Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3447357/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
 
-## Utilisation des segments Real-Time CDP dans l’Adobe [!DNL Target]
+## Utilisation des segments Real-Time CDP dans Adobe [!DNL Target]
 
-Découvrez comment utiliser les segments [!DNL Platform] de données client en temps réel dans l’Adobe [!DNL Target].
+Découvrez comment utiliser les segments Real-Time Customer Data [!DNL Platform] dans Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3446829/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
 
-## Utilisation des attributs de profil Real-Time CDP dans l&#39;Adobe [!DNL Target]
+## Utilisation des attributs de profil Real-Time CDP dans Adobe [!DNL Target]
 
-Découvrez comment utiliser les attributs de profil Adobe de données client en temps réel [!DNL Platform] dans l’Adobe [!DNL Target].
+Découvrez comment utiliser les attributs de profil Real-time Customer Data [!DNL Platform] d’Adobe dans Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3451895/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)

@@ -1,10 +1,10 @@
 ---
-title: Intégrer [!DNL Analytics] avec le Parcours client [!DNL Analytics]
-description: Découvrez comment intégrer  [!DNL Analytics] au Parcours client [!DNL Analytics].
+title: Intégration  [!DNL Analytics]  Parcours client [!DNL Analytics]
+description: Découvrez comment intégrer  [!DNL Analytics]  Parcours client [!DNL Analytics].
 solution: Analytics, Customer Journey Analytics
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Intermediate
 kt: null
 thumbnail: analytics-customer-journey-analytics.png
@@ -12,13 +12,13 @@ index: false
 badgeIntegration: label="Intégration" type="positive"
 last-substantial-update: 2023-06-29T00:00:00Z
 exl-id: 5b1b224f-3f0d-453b-b68d-77711d6acddc
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '16'
-ht-degree: 6%
+source-wordcount: '14'
+ht-degree: 7%
 
 ---
 
-# Intégrer [!DNL Analytics] au Parcours client [!DNL Analytics]
+# Intégration de [!DNL Analytics] à Customer Parcours [!DNL Analytics]
 
 {{$include /help/_includes/integrations-between-applications/analytics-customer-journey-analytics.md}}
