@@ -235,7 +235,7 @@ Dans le paysage hautement concurrentiel et numérique d&#39;aujourd&#39;hui, les
       </td>
       <td>
         <a
-          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          href="https://experienceleague.adobe.com/fr/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
           target="_blank"
           rel="noopener noreferrer"
           >AEM Sites et [!DNL Target]</a
