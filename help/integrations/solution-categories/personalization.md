@@ -67,10 +67,10 @@ Dans le paysage hautement concurrentiel et numérique d&#39;aujourd&#39;hui, les
       <td>
         [!DNL Analytics]</a
         > de Parcours <a
-          href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
-          target="_blank"
-          rel="noopener noreferrer"
-          >[!DNL Analytics] et client
+        >  href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
+        >  target="_blank"
+        >  rel="noopener noreferrer"
+        >[!DNL Analytics] et client
       </td>
     </tr>
     <tr>
@@ -168,10 +168,10 @@ Dans le paysage hautement concurrentiel et numérique d&#39;aujourd&#39;hui, les
       <td>
         [!DNL Platform]</a
         > de données clients en temps <a
-          href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
-          target="_blank"
-          rel="noopener noreferrer"
-          >[!DNL Analytics] et en temps réel
+        >  href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
+        >  target="_blank"
+        >  rel="noopener noreferrer"
+        >[!DNL Analytics] et en temps réel
       </td>
     </tr>
     <tr>
