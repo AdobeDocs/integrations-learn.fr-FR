@@ -2,9 +2,9 @@
 title: Intégrations d’applications pour une personnalisation à grande échelle
 description: Intégrez des expériences personnalisées à chaque moment.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: fc60646e49dcd32f833669e05e82397386eb68d9
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
@@ -65,12 +65,12 @@ Dans le paysage hautement concurrentiel et numérique d&#39;aujourd&#39;hui, les
         </ul>
       </td>
       <td>
-        <a
+        [!DNL Analytics]</a
+        > de Parcours <a
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] de Parcours [!DNL Analytics]</a
-        > et client
+          >[!DNL Analytics] et client
       </td>
     </tr>
     <tr>
@@ -166,16 +166,16 @@ Dans le paysage hautement concurrentiel et numérique d&#39;aujourd&#39;hui, les
         </ul>
       </td>
       <td>
-        <a
+        [!DNL Platform]</a
+        > de données clients en temps <a
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] de données clients en temps [!DNL Platform]</a
-        > et en temps réel
+          >[!DNL Analytics] et en temps réel
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Personnaliser les expériences web</strong></td>
+      <td rowspan="3"><strong>Personnaliser les expériences web</strong></td>
       <td>
         Personnaliser efficacement les expériences d’applications d’une seule page (SPA) en
         l’utilisation d’AEM Headless conjointement avec Adobe [!DNL Target].
@@ -219,6 +219,29 @@ Dans le paysage hautement concurrentiel et numérique d&#39;aujourd&#39;hui, les
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        Conseils pratiques pour l’intégration d’AEM et d’Adobe [!DNL Target]
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>Utilisation des fragments d’expérience pour le Personalization évolutif</li>
+          <li>Segments ContextHub miroirs pour cibler les audiences</li>
+          <li>Rendre les fragments d’expérience prêts pour Target</li>
+          <li>Créer la validation de Target dans les workflows de lancement</li>
+          <li>Combinaison de Dynamic Media et de Target pour Visual Personalization</li>
+          <li>Auteur pour Edge Delivery</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          >AEM Sites et [!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>Personnaliser les expériences digitales</strong></td>
       <td>
