@@ -56,7 +56,7 @@ ht-degree: 32%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-      + {hide-from-toc}[](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
+      + {hide-from-toc}[&#128279;](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
       + {hide-from-toc}[[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
@@ -85,15 +85,15 @@ ht-degree: 32%
    + [!DNL Analytics] et [!DNL Commerce]{#analytics-commerce}
       + {hide-from-toc}[[!DNL Analytics] et [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] et CJA{#analytics-cja}
-      + {hide-from-toc}[[!DNL Analytics]  et CJA ](./tutorials/analytics-cja/experience-platform-edge.md)
-      + {hide-from-toc}[[!DNL Analytics]  et CJA ](./tutorials/analytics-cja/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics]  et CJA &#x200B;](./tutorials/analytics-cja/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics]  et CJA &#x200B;](./tutorials/analytics-cja/experience-platform-source-connector.md)
    + [!DNL Analytics] et Real-Time CDP{#analytics-real-time-cdp}
-      + {hide-from-toc}[[!DNL Analytics]  et Real-Time CDP ](./tutorials/analytics-rtcdp/experience-platform-edge.md)
-      + {hide-from-toc}[[!DNL Analytics]  et Real-Time CDP ](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics]  et Real-Time CDP &#x200B;](./tutorials/analytics-rtcdp/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics]  et Real-Time CDP &#x200B;](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] et [!DNL Target]{#analytics-target}
       + {hide-from-toc}[[!DNL Analytics] et [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] et [!DNL Analytics]{#campaign-analytics}
-      + Tutoriel {hide-from-toc}[Intégration  [!DNL Campaign]  Standard avec  [!DNL Analytics]  Triggers](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + [Tutoriel &lbrace;hide-from-tocIntégration  [!DNL Campaign]  Standard avec  [!DNL Analytics]  Triggers](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] et Experience Manager {#campaign-experience-manager}
       + {hide-from-toc}[[!DNL Campaign] v8 et Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] et Real-Time CDP{#campaign-real-time-cdp}
