@@ -13,12 +13,30 @@ last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Intégration" type="positive"
 exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
 TQID: https://experienceleague.adobe.com/yG4EZoiPmm3-HnjD6lZCyBDpaeseNuGb5wRhnCWqRuk
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: c153fd90-23e1-4614-81d3-3cc7571227f7id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
-subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e6c28e30-8689-4bf4-8fa8-561343d308a9id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f236e2a1-90d4-477d-92e1-5996b5e92bff
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: d3cdead0-685a-4489-9250-4bb709942f66id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: e6c28e30-8689-4bf4-8fa8-561343d308a9
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+  - id: f236e2a1-90d4-477d-92e1-5996b5e92bff
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
 source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
 source-wordcount: 932
@@ -45,21 +63,21 @@ Pour ce faire, connectez-vous à la section admin d’Adobe [!DNL Commerce] et r
 
 1. Configurez le module avec vos informations d’identification depuis le back-office Adobe [!DNL Commerce].
    * Commencez par les configurations du connecteur [!DNL Commerce] Services , comme illustré ci-dessous.
-     Configuration du connecteur ![[!DNL Commerce] services ](./assets/analytics-commerce/commerce-services-connector-setup.png)
+     Configuration du connecteur ![[!DNL Commerce] services &#x200B;](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * Définissez ensuite les paramètres du connecteur Experience [!DNL Platform], comme illustré ci-dessous.
-     ![ Connecteur Experience [!DNL Platform] ](./assets/analytics-commerce/experience-platform-connector.png)
+     ![&#x200B; Connecteur Experience [!DNL Platform] &#x200B;](./assets/analytics-commerce/experience-platform-connector.png)
 
-Pour plus d’informations sur chaque phase et étape du processus d’intégration, suivez les instructions de la section Présentation du connecteur [Experience [!DNL Platform] ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. Le tutoriel sur le connecteur Experience [!DNL Platform] couvre chaque section en profondeur et répond à toutes vos questions. Suivez ce tutoriel pour le reste des étapes de configuration rapide.
+Pour plus d’informations sur chaque phase et étape du processus d’intégration, suivez les instructions de la section Présentation du connecteur [Experience [!DNL Platform] &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. Le tutoriel sur le connecteur Experience [!DNL Platform] couvre chaque section en profondeur et répond à toutes vos questions. Suivez ce tutoriel pour le reste des étapes de configuration rapide.
 
 ## Configuration des [!DNL Analytics] Experience Edge et Adobe
 
-1. Vérifiez que votre organisation a (et que vous avez) accès à Adobe [!DNL Analytics]. Pour le confirmer, accédez à la page d’accueil de [](https://experience.adobe.com/) puis cliquez sur le sélecteur d’applications (neuf points) dans le volet de navigation supérieur.
+1. Vérifiez que votre organisation a (et que vous avez) accès à Adobe [!DNL Analytics]. Pour le confirmer, accédez à la page d’accueil de [&#128279;](https://experience.adobe.com/) puis cliquez sur le sélecteur d’applications (neuf points) dans le volet de navigation supérieur.
 
 1. Créez une suite de rapports dans Adobe [!DNL Analytics] ou identifiez l’identifiant de la suite de rapports dans laquelle vous transmettrez [!DNL Commerce] données. Pour plus d’informations, regardez un tutoriel sur [la création d’une suite de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html). Vous aurez besoin de cet identifiant de suite de rapports à l’étape du flux de données ci-dessous.
 
 1. Accédez à l’[interface d’Adobe Experience [!DNL Platform] interface](https://platform.adobe.com) si vous avez accès à Experience [!DNL Platform]. Si vous n’avez pas accès à cette interface, vous pouvez effectuer toutes les étapes nécessaires répertoriées ci-dessous dans la section [!DNL Platform] d’Adobe [interface de collecte de données](https://experience.adobe.com/#/data-collection).
 
-1. Créez ou mettez à jour votre schéma XDM avec des groupes de champs spécifiques à [!DNL Commerce]. Pour plus d’informations sur la création d’un schéma, consultez le tutoriel [ « Créer des schémas »](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=fr)
+1. Créez ou mettez à jour votre schéma XDM avec des groupes de champs spécifiques à [!DNL Commerce]. Pour plus d’informations sur la création d’un schéma, consultez le tutoriel [&#x200B; « Créer des schémas »](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=fr)
    * Vous devrez sélectionner ce schéma parmi les options de l’étape du flux de données ci-dessous. Pour créer un schéma, recherchez **Schémas** dans la colonne de gauche sous **Gestion des données**. À présent, dans le coin supérieur droit de l’interface, cliquez sur **Créer un schéma**. Sélectionnez XDM ExperienceEvent.
    * Après avoir créé un nouveau schéma, vous allez ajouter les groupes de champs [!DNL Commerce]. Sur le côté gauche de l’interface utilisateur, recherchez Groupes de champs, puis cliquez sur **Ajouter**
       * Dans la recherche, vous pouvez filtrer en saisissant `ExperienceEvent Commerce`
@@ -78,7 +96,7 @@ Pour plus d’informations sur chaque phase et étape du processus d’intégrat
    * Cliquez sur **Nouveau flux de données** en haut à droite de l’interface.
    * Indiquez un nom et une description facultative.
    * Recherchez et sélectionnez le schéma que vous avez créé/identifié à l’étape précédente.
-   * Ajoutez les options avancées de votre choix. Pour plus d’informations sur les options avancées, consultez la [ documentation ](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=fr).
+   * Ajoutez les options avancées de votre choix. Pour plus d’informations sur les options avancées, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=fr).
    * Cliquez sur **Enregistrer** pour continuer.
    * Cliquez sur **Ajouter un service** et choisissez **Adobe[!DNL Analytics]** dans le champ déroulant.
    * Cliquez sur **Ajouter une suite de rapports** et saisissez l’identifiant de suite de rapports que vous avez créé/identifié à l’étape précédente. Vous pouvez ajouter plusieurs suites de rapports si vous souhaitez que les données soient transmises à plusieurs suites de rapports.
