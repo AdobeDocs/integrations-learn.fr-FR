@@ -1,17 +1,25 @@
 ---
-title: Intégrations d’applications pour le commerce
-description: Créez des expériences commerciales multicanales sur une seule plateforme grâce à notre solution de commerce flexible optimisée par l’IA.
+title: Intégrations d’applications pour Commerce
+description: Créez des expériences commerciales multicanaux sur une seule plateforme avec notre solution de commerce flexible et optimisée par l’IA.
 exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/apKwbItmCVvmkJ-gx580ymdP7M1FGNieIorzOSHo374
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 174
 ht-degree: 3%
 
 ---
 
 # [!DNL Commerce]
 
-Créez des expériences commerciales multicanales sur une seule plateforme grâce à notre solution de commerce flexible optimisée par l’IA. Étendez la portée de votre marché, améliorez la commodité de votre clientèle et augmentez vos ventes en établissant une vitrine numérique, ce qui vous permet d’offrir une expérience d’achat en ligne transparente pour que vos clients puissent explorer, parcourir et acheter des produits ou des services à tout moment, où que vous soyez.
+Créez des expériences commerciales multicanaux sur une seule plateforme avec notre solution de commerce flexible et optimisée par l’IA. Étendez votre portée sur le marché, améliorez la commodité pour les clients et stimulez la croissance des ventes en établissant une vitrine numérique, offrant ainsi une expérience d&#39;achat en ligne transparente aux clients pour qu&#39;ils puissent explorer, parcourir et acheter des produits ou des services à tout moment et n&#39;importe où.
 
 <table>
 
@@ -25,32 +33,32 @@ Créez des expériences commerciales multicanales sur une seule plateforme grâc
   </thead>
   <tbody>
  <tr>
-   <td><strong>Magasin numérique</strong></td>
+   <td><strong>Vitrine numérique</strong></td>
    <td><ul style="margin-top: 0;">
-          <li>Déploiement d’une seule boutique sur AEM
+          <li>Déploiement en magasin unique sur AEM
           <li>Déploiement multi-magasin global sur AEM</li>
           <li>Déploiement multi-système avec AEM</li>
         </ul>
   </td>
    <td>
     <ul style="margin-top: 0;">
-          <li>Magasin Web fiable.</li>
-          <li>Amélioration de la navigation dans les produits.</li>
-          <li>Filtrage efficace pour des catalogues étendus.</li>
+          <li>Storefont web modifiable.</li>
+          <li>Amélioration de l’expérience de navigation dans les produits.</li>
+          <li>Filtrage efficace pour les catalogues complets.</li>
           <li>Implémentez des configurations multi-magasin complexes.</li>
-          <li>Gestion transparente de contenu sur plusieurs sites.</li>
-          <li>Une coordination de contenu globale efficace.</li>
-          <li>Prise en charge de plusieurs environnements pour l’Adobe [!DNL Commerce].</li>
-          <li>Création simplifiée du contenu commercial.</li>
-          <li>Gestion cohérente et efficace de la vitrine.</li>
+          <li>Gestion transparente du contenu sur tous les sites.</li>
+          <li>Coordination efficace du contenu global.</li>
+          <li>Prise en charge multi-environnement pour Adobe [!DNL Commerce].</li>
+          <li>Création de contenu commercial simplifiée.</li>
+          <li>Gestion cohérente et efficace du storefront.</li>
       </ul>
     </td>
    <td><a href="/help/integrations/integrations-between-applications/experience-manager/experience-manager-commerce.md">[!DNL Commerce] et Experience Manager</a></td>
  </tr> 
  <tr>
-   <td><strong>Analyse et reporting des données<strong></td>
-   <td>Evaluez l’entonnoir de conversion de magasin de commerce, les commandes, les recettes et les mesures de visites et de visiteurs.</td>
-   <td><ul style="margin-top: 0;"><li>Informations sur les données et création de rapports sur l’activité commerciale.</li><li>Obtenez des informations complètes sur les performances du magasin [!DNL Commerce] Adobe à l’aide des mesures et dimensions clés que vous sélectionnez.</li></ul></td>
+   <td><strong>Analyse des données et rapports<strong></td>
+   <td>Évaluez les mesures funnel de conversion de la boutique de commerce, commandes, chiffre d’affaires, visites et visiteur.</td>
+   <td><ul style="margin-top: 0;"><li>Informations sur les données et rapports sur l’activité commerciale.</li><li>Obtenez des informations complètes sur les performances d’Adobe [!DNL Commerce] store à l’aide des mesures et dimensions clés que vous sélectionnez.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] and [!DNL Analytics]</a></td>
  </tr>
  </tbody>
