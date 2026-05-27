@@ -31,7 +31,7 @@ L’intégration d’Experience Manager et de Marketo Engage offre plusieurs ava
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager Forms et Marketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=fr" target="_blank" rel="noreferrer">Experience Manager Forms et Marketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Lorsque vous souhaitez générer des pistes en fonction des envois de formulaires numériques des utilisateurs.</li>
