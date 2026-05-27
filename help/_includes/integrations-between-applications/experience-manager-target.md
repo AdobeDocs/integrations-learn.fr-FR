@@ -1,7 +1,7 @@
 ---
 source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ L’utilisation conjointe de Adobe Experience Manager et d’Adobe [!DNL Target]
             <th>Applications Experience Cloud</th>
             <th>Intégration à l’aide d’</th>
             <th>Quand l’utiliser</th>
-            <th>Cas d'utilisation courants</th>
+            <th>Cas d’utilisation courants</th>
         </tr>
     </thead>
     <tbody>
