@@ -272,10 +272,10 @@ Découvrez une solution complète qui vous permet de créer facilement des expé
       <td>
         [!DNL Platform]</a
         > de données clients en temps <a
-          href="../integrations-between-applications/analytics/analytics-rtcdp.md"
-          target="_blank"
-          rel="noopener noreferrer"
-          >[!DNL Analytics] et en temps réel
+        >  href="../integrations-between-applications/analytics/analytics-rtcdp.md"
+        >  target="_blank"
+        >  rel="noopener noreferrer"
+        >[!DNL Analytics] et en temps réel
       </td>
     </tr>    
     <tr>
