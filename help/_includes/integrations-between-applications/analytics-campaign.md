@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '155'
 ht-degree: 2%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 2%
 
 {{campaign-description}}
 
-L&#39;intégration de l&#39;Adobe [!DNL Analytics] avec l&#39;Adobe [!DNL Campaign] permet un partage transparent des données et un suivi des emails, et offre les avantages suivants :
+L’intégration d’Adobe [!DNL Analytics] à Adobe [!DNL Campaign] permet un partage des données et un suivi des e-mails transparents. Elle offre également les avantages suivants :
 
-+ **Partager les données KPI** de l&#39;Adobe [!DNL Campaign] vers l&#39;Adobe [!DNL Analytics].
-+ **Enrichissez les formules de suivi** avec les paramètres d’Adobe [!DNL Analytics].
-+ Utilisez Triggers pour **envoyer des emails personnalisés** en fonction de comportements de suivi spécifiques.
++ **Partage de données d’indicateurs de performance clés** d’Adobe [!DNL Campaign] à Adobe [!DNL Analytics].
++ **Enrichir les formules de tracking** avec les paramètres de [!DNL Analytics] Adobe.
++ Utilisez des déclencheurs pour **envoyer des e-mails personnalisés** en fonction de comportements suivis spécifiques.
 
 ## Intégrations courantes
 
@@ -25,24 +25,24 @@ L&#39;intégration de l&#39;Adobe [!DNL Analytics] avec l&#39;Adobe [!DNL Campai
     <thead>
         <tr>
             <th>Applications Experience Cloud</th>
-            <th>Intégrer à l’aide de</th>
-            <th>Quand utiliser</th>
-            <th>Cas d'utilisation courants</th>
+            <th>Intégration à l’aide d’</th>
+            <th>Quand l’utiliser</th>
+            <th>Cas d’utilisation courants</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standard avec [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=fr" target="_blank" rel="noreferrer">Compte externe [!DNL Campaign] lié à l'Adobe [!DNL Analytics] et configuration d'administrateur dans [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Compte de [!DNL Campaign] externe lié à la configuration Adobe [!DNL Analytics] et Admin dans [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Lorsque vous souhaitez tracker le succès de vos diffusions email de [!DNL Campaign] directement dans l'Adobe [!DNL Analytics].</li>
+                    <li>Lorsque vous souhaitez suivre le succès de vos diffusions e-mail depuis [!DNL Campaign] directement dans Adobe [!DNL Analytics].</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Améliorez vos rapports d’analyse avec les données de diffusion [!DNL Campaign], y compris les emails envoyés, les emails cliqués, les emails ouverts, les emails envoyés, les désabonnements et les bounces.</li>
-                <li>Analysez les événements de conversion en aval pour les clics [!DNL Campaign] qui orientent le trafic vers vos propriétés numériques, comme les pistes de formulaire, les commandes en ligne ou d’autres événements capturés dans [!DNL Analytics].</li>
+                <li>Améliorez vos rapports d’analyse avec des données de diffusion [!DNL Campaign], notamment les e-mails envoyés, les e-mails ayant fait l’objet d’un clic, les e-mails ouverts, les e-mails diffusés, les désabonnements et les bounces.</li>
+                <li>Analysez les événements de conversion en aval pour [!DNL Campaign] clics qui génèrent le trafic vers vos propriétés numériques, telles que les prospects de formulaires, les commandes en ligne ou d’autres événements capturés dans [!DNL Analytics].</li>
               </ul>
             </td>
         </tr>
@@ -55,7 +55,7 @@ L&#39;intégration de l&#39;Adobe [!DNL Analytics] avec l&#39;Adobe [!DNL Campai
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Confirmation d'inscription.</li>
+                <li>Confirmation d’inscription.</li>
                 <li>Passage en caisse.</li>
               </ul>
             </td>

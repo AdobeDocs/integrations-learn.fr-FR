@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '131'
 ht-degree: 2%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 2%
 L’intégration d’Experience Manager et de Marketo Engage offre plusieurs avantages, notamment :
 
 + **Création et gestion de formulaires** : AEM Forms permet de créer facilement des formulaires interactifs et s’intègre à Marketo Engage pour la génération de pistes.
-+ **Synchronisation des données** : AEM Forms synchronise les envois de formulaire vers Marketo Engage, assurant une capture et une gestion efficaces des pistes.
-+ **Prise en charge des pistes et automatisation des campagnes** : intégrez AEM Forms à Marketo Engage pour un transfert transparent des pistes, des suivis automatisés, des emails ciblés et un suivi des pistes.
++ **Synchronisation des données** : AEM Forms synchronise les envois de formulaires dans Marketo Engage, assurant ainsi une capture et une gestion efficaces des prospects.
++ **Soutien aux leads et automatisation des campagnes** : intégrez AEM Forms à Marketo Engage pour un transfert de leads transparent, des suivis automatisés, des e-mails ciblés et un suivi des leads.
 
 ## Intégrations courantes
 
@@ -25,13 +25,13 @@ L’intégration d’Experience Manager et de Marketo Engage offre plusieurs ava
     <thead>
         <tr>
             <th>Applications Experience Cloud</th>
-            <th>Quand utiliser</th>
-            <th>Cas d'utilisation courants</th>
+            <th>Quand l’utiliser</th>
+            <th>Cas d’utilisation courants</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=fr" target="_blank" rel="noreferrer">Experience Manager Forms et Marketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager Forms et Marketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Lorsque vous souhaitez générer des pistes en fonction des envois de formulaires numériques des utilisateurs.</li>
@@ -39,9 +39,9 @@ L’intégration d’Experience Manager et de Marketo Engage offre plusieurs ava
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                  <li>Convertissez les clients potentiels en prospects précieux.</li>                  
-                  <li>Maximiser la croissance des affaires et le potentiel de vente.</li>
-                  <li>Synchronisez les attributs de piste.</li>
+                  <li>Convertissez des clients potentiels en pistes intéressantes.</li>                  
+                  <li>Optimisez la croissance et le potentiel de vente de votre entreprise.</li>
+                  <li>Synchroniser les attributs de lead.</li>
                 </ul>
             </td>
         </tr>        
