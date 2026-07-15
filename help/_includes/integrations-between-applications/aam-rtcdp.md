@@ -1,25 +1,25 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 2%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
 
-# Intégration de Audience Manager et Real-Time CDP
+# Intégration d’Audience Manager et de Real-Time CDP
 
 {{audience-manager-description}}
 
 {{real-time-cdp-description}}
 
-L’intégration de Adobe Audience Manager et Adobe Real-Time CDP offre les avantages suivants :
+L’intégration de Adobe Audience Manager et d’Adobe Real-Time CDP offre les avantages suivants :
 
-+ **Informations complètes sur les clients** avec combinaison de données propriétaires et tierces, ce qui permet une meilleure compréhension des préférences et des comportements des clients.
-+ La **personnalisation en temps réel** permet aux marketeurs de proposer des expériences pertinentes, ce qui améliore l’engagement et la satisfaction des clients.
-+ **La segmentation précise de l’audience** optimise les efforts marketing, ce qui permet d’optimiser les campagnes et le retour sur investissement.
-+ **Des expériences cross-canal en toute transparence** assurent des messages cohérents et une fidélité accrue des clients.
-+ **Amélioration de la confidentialité et de la conformité des données** l’adhésion crée la confiance avec les clients et réduit les risques de conformité.
++ **Informations complètes sur les clients** avec des données propriétaires et tierces, ce qui permet une meilleure compréhension des préférences et des comportements des clients.
++ La **personnalisation en temps réel** permet aux professionnels du marketing de proposer des expériences pertinentes, ce qui améliore l’engagement et la satisfaction des clients.
++ **Segmentation précise des audiences** optimise les efforts marketing, ce qui permet d’obtenir des campagnes plus efficaces et un meilleur retour sur investissement.
++ **Des expériences cross-canal transparentes** des messages cohérents et une fidélisation accrue de la clientèle.
++ **Confidentialité et conformité des données améliorées** le respect de la réglementation renforce la confiance des clients et limite les risques de non-conformité.
 
 ## Intégrations courantes
 
@@ -27,22 +27,22 @@ L’intégration de Adobe Audience Manager et Adobe Real-Time CDP offre les avan
     <thead>
         <tr>
             <th>Applications Experience Cloud</th>
-            <th>Intégrer à l’aide de</th>
-            <th>Quand utiliser</th>
-            <th>Cas d'utilisation courants</th>
+            <th>Intégration à l’aide d’</th>
+            <th>Quand l’utiliser</th>
+            <th>Cas d’utilisation courants</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=fr" target="_blank" rel="noreferrer">Audience Manager et Real-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager et Real-Time CDP</a>
             </td>
             <td>Connecteur de données Adobe Audience Manager</td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Recherche de la synchronisation en temps réel des données client.</li>
-                    <li>Amélioration du profilage et de la personnalisation des clients.</li>
-                    <li>Vous souhaitez activer les segments d’audience pour le marketing ciblé.</li>
+                    <li>Nécessité d’améliorer le profilage et la personnalisation des clients.</li>
+                    <li>Vous souhaitez activer des segments ciblés pour le marketing ciblé.</li>
                 </ul>
             </td>
             <td>
