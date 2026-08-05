@@ -48,7 +48,7 @@ ht-degree: 0%
 
 Obtenez un aperçu et une démonstration de l’intégration.
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342977?captions=fre_fr&quality=12&learn=on)
 
 
 ## Configurer la destination Adobe [!DNL Target] dans Real-Time Customer Data [!DNL Platform]
