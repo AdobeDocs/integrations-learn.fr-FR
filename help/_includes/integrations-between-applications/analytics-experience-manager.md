@@ -33,7 +33,7 @@ L’intégration d’Adobe [!DNL Analytics] et de Adobe Experience Manager offre
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] avec AEM Sites</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Extension Experience [!DNL Platform] Web SDK tags ou alloy.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html?lang=fr" target="_blank" rel="noreferrer">Extension Experience [!DNL Platform] Web SDK tags ou alloy.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Lorsque vous souhaitez créer des rapports sur les données d’analyse web AEM dans Adobe [!DNL Analytics] et vous positionner pour l’intégrer à d’autres applications Experience Cloud à l’avenir.</li>
