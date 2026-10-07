@@ -1,6 +1,6 @@
 ---
-title: Tutoriel sur l [!DNL Analytics] intégration et les données client  [!DNL Platform]  temps réel à Experience [!DNL Platform] Edge
-description: Découvrez comment intégrer Adobe  [!DNL Analytics]  aux données client en temps réel  [!DNL Platform]  utilisant AEP Web SDK, AEP Mobile SDK ou l’API Edge Network Server.
+title: Intégrer [!DNL Analytics] et Real-Time Customer Data [!DNL Platform] au tutoriel Experience [!DNL Platform] Edge
+description: Découvrez comment intégrer Adobe [!DNL Analytics] à Real-Time Customer Data [!DNL Platform] à l’aide d’AEP Web SDK, d’AEP Mobile SDK ou de l’API Edge Network Server.
 solution: Real-Time Customer Data Platform, Analytics
 feature: Integrations
 topic: Integrations
@@ -8,30 +8,38 @@ role: Developer
 level: Experienced
 index: true
 kt: 13732
-thumbnail: null
+thumbnail:
 last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="Intégration" type="positive"
 exl-id: 07c2c329-0810-4f66-a91a-e315695f3fb4
-TQID: https://experienceleague.adobe.com/K1CpRtUekl5jQNDMGswJpexC9fv9uVmgraLlNFXUIr8
+TQID: 'https://experienceleague.adobe.com/K1CpRtUekl5jQNDMGswJpexC9fv9uVmgraLlNFXUIr8'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
   - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
 feature_v2:
   - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+    internal-label: API
 subfeature_v2:
   - id: e6c28e30-8689-4bf4-8fa8-561343d308a9
+    internal-label: Experience Cloud integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Implementation
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 317
+source-wordcount: '322'
 ht-degree: 10%
-
 ---
-
 # Tutoriel sur l’intégration d’Adobe [!DNL Analytics] et de Real-Time Customer Data [!DNL Platform] à Experience [!DNL Platform] Edge
 
 <ol>
