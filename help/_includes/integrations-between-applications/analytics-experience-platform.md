@@ -1,25 +1,23 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 2%
-
+source-wordcount: '150'
+ht-degree: 10%
 ---
 
-
-# Intégrer l’Adobe [!DNL Analytics] à l’expérience [!DNL Platform]
+# Intégration d’Adobe [!DNL Analytics] à Experience [!DNL Platform]
 
 {{analytics-description}}
 
 {{experience-platform-description}}
 
-L&#39;intégration de l&#39;Adobe [!DNL Analytics] et de l&#39;expérience d&#39;Adobe [!DNL Platform] offre plusieurs avantages aux entreprises :
+L’intégration d’Adobe [!DNL Analytics] et d’Adobe Experience [!DNL Platform] présente plusieurs avantages pour les entreprises :
 
-+ Simple **workflow initié par l’interface utilisateur**
-+ **Mappage de l’interface utilisateur** pour copier [!DNL Analytics] props et eVars dans de nouveaux champs XDM
-+ Méthode la plus rapide pour obtenir la valeur **du profil client en temps réel et du Parcours client[!DNL Analytics]**
++ **workflow simple initié par l’interface utilisateur**
++ **Mappage de l’interface utilisateur** pour copier des props et des eVars [!DNL Analytics] vers de nouveaux champs XDM
++ Moyen le plus rapide d’obtenir de la valeur **du profil client en temps réel et de l’[!DNL Analytics]** de Parcours client
 
-En intégrant ces plateformes, les entreprises peuvent exploiter les données pour des expériences client exceptionnelles, un marketing efficace et un avantage concurrentiel.
+En intégrant ces plateformes, les entreprises peuvent exploiter les données pour offrir des expériences client exceptionnelles, un marketing efficace et un avantage concurrentiel.
 
 ## Intégrations courantes
 
@@ -27,9 +25,9 @@ En intégrant ces plateformes, les entreprises peuvent exploiter les données po
     <thead>
         <tr>
             <th>Applications Experience Cloud</th>
-            <th>Intégrer à l’aide de</th>
-            <th>Quand utiliser</th>
-            <th>Cas d'utilisation courants</th>
+            <th>Intégration à l’aide d’</th>
+            <th>Quand l’utiliser</th>
+            <th>Cas d’utilisation courants</th>
         </tr>
     </thead>
     <tbody>
@@ -38,15 +36,15 @@ En intégrant ces plateformes, les entreprises peuvent exploiter les données po
             <td>Connecteur source Experience [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Lorsque vous devez ingérer des données historiques [!DNL Analytics] dans l’expérience [!DNL Platform] à partir de vos suites de rapports.</li>
-                    <li>Lorsque la disponibilité des données pour Customer Profile peut se situer entre 2 et 30 minutes à compter du moment de la collecte des données, et la disponibilité pour le lac de données peut atteindre 90 minutes.</li>
+                    <li>Lorsque vous devez ingérer des données de [!DNL Analytics] historiques dans Experience [!DNL Platform] à partir de vos suites de rapports.</li>
+                    <li>Lorsque la disponibilité des données pour le profil client peut se situer entre 2 et 30 minutes à compter de la collecte de données, et la disponibilité du lac de données peut atteindre 90 minutes.</li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Informations plus approfondies sur les expériences personnalisées.</li>
-                    <li>Les stratégies basées sur les données accroissent l'efficacité.</li>
-                    <li>Messagerie cohérente entre les points de contact.</li>
+                    <li>Des informations plus approfondies pour des expériences personnalisées.</li>
+                    <li>Les stratégies axées sur les données renforcent l’efficacité.</li>
+                    <li>Messages cohérents entre les points de contact.</li>
                 </ul>
             </td>
         </tr>
